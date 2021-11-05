@@ -1,0 +1,3740 @@
+-------------------------------------------------
+| Log_count               | 0                   |
+| Log_time                | 20-06-2021 22:49:35 |
+| Iteration               | 99                  |
+| EpisodFramesNumber      | 490                 |
+| TMCount                 | 99                  |
+| RTMCount                | 0                   |
+| Epsilon                 | 0.99508             |
+| Episodes                | 0                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 0                   |
+| AverageEpisodReturn     | nan                 |
+| AverageDiscountedepi... | nan                 |
+| TDError2                | nan                 |
+| TotalFramesNumber       | 490                 |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 1                   |
+| Log_time                | 20-06-2021 22:50:12 |
+| Iteration               | 199                 |
+| EpisodFramesNumber      | 990                 |
+| TMCount                 | 199                 |
+| RTMCount                | 0                   |
+| Epsilon                 | 0.99011             |
+| Episodes                | 0                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 0                   |
+| AverageEpisodReturn     | nan                 |
+| AverageDiscountedepi... | nan                 |
+| TDError2                | 0.017364            |
+| TotalFramesNumber       | 990                 |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 2                   |
+| Log_time                | 20-06-2021 22:51:38 |
+| Iteration               | 299                 |
+| EpisodFramesNumber      | 1490                |
+| TMCount                 | 299                 |
+| RTMCount                | 200                 |
+| Epsilon                 | 0.98514             |
+| Episodes                | 0                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 0                   |
+| AverageEpisodReturn     | nan                 |
+| AverageDiscountedepi... | nan                 |
+| TDError2                | 0.096998            |
+| TotalFramesNumber       | 1490                |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 3                   |
+| Log_time                | 20-06-2021 22:53:23 |
+| Iteration               | 399                 |
+| EpisodFramesNumber      | 1990                |
+| TMCount                 | 399                 |
+| RTMCount                | 300                 |
+| Epsilon                 | 0.98017             |
+| Episodes                | 0                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 0                   |
+| AverageEpisodReturn     | nan                 |
+| AverageDiscountedepi... | nan                 |
+| TDError2                | 0.17602             |
+| TotalFramesNumber       | 1990                |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 4                   |
+| Log_time                | 20-06-2021 22:55:34 |
+| Iteration               | 499                 |
+| EpisodFramesNumber      | 2490                |
+| TMCount                 | 499                 |
+| RTMCount                | 400                 |
+| Epsilon                 | 0.9752              |
+| Episodes                | 0                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 1000                |
+| EpisodRewardsSum        | 1000                |
+| AverageEpisodReturn     | nan                 |
+| AverageDiscountedepi... | nan                 |
+| TDError2                | 0.21512             |
+| TotalFramesNumber       | 2490                |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 5                   |
+| Log_time                | 20-06-2021 22:58:13 |
+| Iteration               | 599                 |
+| EpisodFramesNumber      | 2990                |
+| TMCount                 | 599                 |
+| RTMCount                | 500                 |
+| Epsilon                 | 0.97023             |
+| Episodes                | 0                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 2000                |
+| EpisodRewardsSum        | 2000                |
+| AverageEpisodReturn     | nan                 |
+| AverageDiscountedepi... | nan                 |
+| TDError2                | 252.54              |
+| TotalFramesNumber       | 2990                |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 6                   |
+| Log_time                | 20-06-2021 23:01:18 |
+| Iteration               | 699                 |
+| EpisodFramesNumber      | 3490                |
+| TMCount                 | 699                 |
+| RTMCount                | 600                 |
+| Epsilon                 | 0.96526             |
+| Episodes                | 0                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 2000                |
+| EpisodRewardsSum        | 2000                |
+| AverageEpisodReturn     | nan                 |
+| AverageDiscountedepi... | nan                 |
+| TDError2                | 1260.1              |
+| TotalFramesNumber       | 3490                |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 7                   |
+| Log_time                | 20-06-2021 23:04:54 |
+| Iteration               | 799                 |
+| EpisodFramesNumber      | 3990                |
+| TMCount                 | 798                 |
+| RTMCount                | 700                 |
+| Epsilon                 | 0.96029             |
+| Episodes                | 0                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 2000                |
+| EpisodRewardsSum        | 2000                |
+| AverageEpisodReturn     | nan                 |
+| AverageDiscountedepi... | nan                 |
+| TDError2                | 1438.8              |
+| TotalFramesNumber       | 3990                |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 8                   |
+| Log_time                | 20-06-2021 23:08:55 |
+| Iteration               | 899                 |
+| EpisodFramesNumber      | 4490                |
+| TMCount                 | 898                 |
+| RTMCount                | 799                 |
+| Epsilon                 | 0.95532             |
+| Episodes                | 0                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 2000                |
+| EpisodRewardsSum        | 2000                |
+| AverageEpisodReturn     | nan                 |
+| AverageDiscountedepi... | nan                 |
+| TDError2                | 1572.5              |
+| TotalFramesNumber       | 4490                |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 9                   |
+| Log_time                | 20-06-2021 23:13:24 |
+| Iteration               | 999                 |
+| EpisodFramesNumber      | 4990                |
+| TMCount                 | 998                 |
+| RTMCount                | 899                 |
+| Epsilon                 | 0.95035             |
+| Episodes                | 0                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 2000                |
+| EpisodRewardsSum        | 2000                |
+| AverageEpisodReturn     | nan                 |
+| AverageDiscountedepi... | nan                 |
+| TDError2                | 1676.4              |
+| TotalFramesNumber       | 4990                |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 10                  |
+| Log_time                | 20-06-2021 23:18:27 |
+| Iteration               | 1099                |
+| EpisodFramesNumber      | 5490                |
+| TMCount                 | 1098                |
+| RTMCount                | 999                 |
+| Epsilon                 | 0.94538             |
+| Episodes                | 0                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 2000                |
+| EpisodRewardsSum        | 2000                |
+| AverageEpisodReturn     | nan                 |
+| AverageDiscountedepi... | nan                 |
+| TDError2                | 1633.8              |
+| TotalFramesNumber       | 5490                |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 11                  |
+| Log_time                | 20-06-2021 23:23:39 |
+| Iteration               | 1199                |
+| EpisodFramesNumber      | 5990                |
+| TMCount                 | 1198                |
+| RTMCount                | 1000                |
+| Epsilon                 | 0.9404              |
+| Episodes                | 0                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 2000                |
+| EpisodRewardsSum        | 2000                |
+| AverageEpisodReturn     | nan                 |
+| AverageDiscountedepi... | nan                 |
+| TDError2                | 1598.9              |
+| TotalFramesNumber       | 5990                |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 12                  |
+| Log_time                | 20-06-2021 23:25:49 |
+| Iteration               | 1221                |
+| EpisodFramesNumber      | 6100                |
+| TMCount                 | 1220                |
+| RTMCount                | 1000                |
+| Epsilon                 | 0.93931             |
+| Episodes                | 0                   |
+| EndOfEpisod             | 1                   |
+| CurrenteEpisodRewardSum | 2000                |
+| EpisodRewardsSum        | 2000                |
+| AverageEpisodReturn     | 2000                |
+| AverageDiscountedepi... | 22.454              |
+| TDError2                | 1564.7              |
+| TotalFramesNumber       | 6100                |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 13                  |
+| Log_time                | 20-06-2021 23:29:09 |
+| Iteration               | 1299                |
+| EpisodFramesNumber      | 385                 |
+| TMCount                 | 1297                |
+| RTMCount                | 1000                |
+| Epsilon                 | 0.93543             |
+| Episodes                | 1                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 2000                |
+| AverageEpisodReturn     | 2000                |
+| AverageDiscountedepi... | 22.454              |
+| TDError2                | 1674.5              |
+| TotalFramesNumber       | 6490                |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 14                  |
+| Log_time                | 20-06-2021 23:34:57 |
+| Iteration               | 1399                |
+| EpisodFramesNumber      | 885                 |
+| TMCount                 | 1397                |
+| RTMCount                | 1000                |
+| Epsilon                 | 0.93046             |
+| Episodes                | 1                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 1000                |
+| EpisodRewardsSum        | 3000                |
+| AverageEpisodReturn     | 2000                |
+| AverageDiscountedepi... | 22.454              |
+| TDError2                | 1931.6              |
+| TotalFramesNumber       | 6990                |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 15                  |
+| Log_time                | 20-06-2021 23:40:58 |
+| Iteration               | 1499                |
+| EpisodFramesNumber      | 1385                |
+| TMCount                 | 1497                |
+| RTMCount                | 1000                |
+| Epsilon                 | 0.92549             |
+| Episodes                | 1                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 1000                |
+| EpisodRewardsSum        | 3000                |
+| AverageEpisodReturn     | 2000                |
+| AverageDiscountedepi... | 22.454              |
+| TDError2                | 1972.5              |
+| TotalFramesNumber       | 7490                |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 16                  |
+| Log_time                | 20-06-2021 23:47:17 |
+| Iteration               | 1599                |
+| EpisodFramesNumber      | 1885                |
+| TMCount                 | 1597                |
+| RTMCount                | 1000                |
+| Epsilon                 | 0.92052             |
+| Episodes                | 1                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 2000                |
+| EpisodRewardsSum        | 4000                |
+| AverageEpisodReturn     | 2000                |
+| AverageDiscountedepi... | 22.454              |
+| TDError2                | 2008                |
+| TotalFramesNumber       | 7990                |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 17                  |
+| Log_time                | 20-06-2021 23:53:55 |
+| Iteration               | 1699                |
+| EpisodFramesNumber      | 2385                |
+| TMCount                 | 1696                |
+| RTMCount                | 1000                |
+| Epsilon                 | 0.91555             |
+| Episodes                | 1                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 2000                |
+| EpisodRewardsSum        | 4000                |
+| AverageEpisodReturn     | 2000                |
+| AverageDiscountedepi... | 22.454              |
+| TDError2                | 2039                |
+| TotalFramesNumber       | 8490                |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 18                  |
+| Log_time                | 21-06-2021 00:00:53 |
+| Iteration               | 1799                |
+| EpisodFramesNumber      | 2885                |
+| TMCount                 | 1796                |
+| RTMCount                | 1000                |
+| Epsilon                 | 0.91058             |
+| Episodes                | 1                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 2000                |
+| EpisodRewardsSum        | 4000                |
+| AverageEpisodReturn     | 2000                |
+| AverageDiscountedepi... | 22.454              |
+| TDError2                | 2066.4              |
+| TotalFramesNumber       | 8990                |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 19                  |
+| Log_time                | 21-06-2021 00:08:10 |
+| Iteration               | 1899                |
+| EpisodFramesNumber      | 3385                |
+| TMCount                 | 1895                |
+| RTMCount                | 1000                |
+| Epsilon                 | 0.90561             |
+| Episodes                | 1                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 2000                |
+| EpisodRewardsSum        | 4000                |
+| AverageEpisodReturn     | 2000                |
+| AverageDiscountedepi... | 22.454              |
+| TDError2                | 2160.4              |
+| TotalFramesNumber       | 9490                |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 20                  |
+| Log_time                | 21-06-2021 00:11:39 |
+| Iteration               | 1933                |
+| EpisodFramesNumber      | 3555                |
+| TMCount                 | 1929                |
+| RTMCount                | 1000                |
+| Epsilon                 | 0.90392             |
+| Episodes                | 1                   |
+| EndOfEpisod             | 1                   |
+| CurrenteEpisodRewardSum | 2000                |
+| EpisodRewardsSum        | 4000                |
+| AverageEpisodReturn     | 3000                |
+| AverageDiscountedepi... | 22.454              |
+| TDError2                | 2254.6              |
+| TotalFramesNumber       | 9660                |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 21                  |
+| Log_time                | 21-06-2021 00:15:50 |
+| Iteration               | 1999                |
+| EpisodFramesNumber      | 325                 |
+| TMCount                 | 1994                |
+| RTMCount                | 1000                |
+| Epsilon                 | 0.90064             |
+| Episodes                | 2                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 4000                |
+| AverageEpisodReturn     | 3000                |
+| AverageDiscountedepi... | 22.454              |
+| TDError2                | 2178.5              |
+| TotalFramesNumber       | 9987                |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 22                  |
+| Log_time                | 21-06-2021 00:23:57 |
+| Iteration               | 2099                |
+| EpisodFramesNumber      | 825                 |
+| TMCount                 | 2094                |
+| RTMCount                | 1000                |
+| Epsilon                 | 0.89567             |
+| Episodes                | 2                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 4000                |
+| AverageEpisodReturn     | 3000                |
+| AverageDiscountedepi... | 22.454              |
+| TDError2                | 2069.4              |
+| TotalFramesNumber       | 10487               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 23                  |
+| Log_time                | 21-06-2021 00:29:47 |
+| Iteration               | 2199                |
+| EpisodFramesNumber      | 1325                |
+| TMCount                 | 1749                |
+| RTMCount                | 1000                |
+| Epsilon                 | 0.8907              |
+| Episodes                | 2                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 4000                |
+| AverageEpisodReturn     | 3000                |
+| AverageDiscountedepi... | 22.454              |
+| TDError2                | 2030.4              |
+| TotalFramesNumber       | 10987               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 24                  |
+| Log_time                | 21-06-2021 00:36:12 |
+| Iteration               | 2299                |
+| EpisodFramesNumber      | 1825                |
+| TMCount                 | 1990                |
+| RTMCount                | 2000                |
+| Epsilon                 | 0.88573             |
+| Episodes                | 2                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 4000                |
+| AverageEpisodReturn     | 3000                |
+| AverageDiscountedepi... | 22.454              |
+| TDError2                | 2108.9              |
+| TotalFramesNumber       | 11487               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 25                  |
+| Log_time                | 21-06-2021 00:42:13 |
+| Iteration               | 2399                |
+| EpisodFramesNumber      | 2325                |
+| TMCount                 | 2208                |
+| RTMCount                | 2000                |
+| Epsilon                 | 0.88076             |
+| Episodes                | 2                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 4000                |
+| AverageEpisodReturn     | 3000                |
+| AverageDiscountedepi... | 22.454              |
+| TDError2                | 2071.6              |
+| TotalFramesNumber       | 11987               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 26                  |
+| Log_time                | 21-06-2021 00:48:17 |
+| Iteration               | 2499                |
+| EpisodFramesNumber      | 2825                |
+| TMCount                 | 1703                |
+| RTMCount                | 2000                |
+| Epsilon                 | 0.87579             |
+| Episodes                | 2                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 4000                |
+| AverageEpisodReturn     | 3000                |
+| AverageDiscountedepi... | 22.454              |
+| TDError2                | 1985.1              |
+| TotalFramesNumber       | 12487               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 27                  |
+| Log_time                | 21-06-2021 00:55:10 |
+| Iteration               | 2599                |
+| EpisodFramesNumber      | 3325                |
+| TMCount                 | 2035                |
+| RTMCount                | 2299                |
+| Epsilon                 | 0.87082             |
+| Episodes                | 2                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 4000                |
+| AverageEpisodReturn     | 3000                |
+| AverageDiscountedepi... | 22.454              |
+| TDError2                | 2005.8              |
+| TotalFramesNumber       | 12987               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 28                  |
+| Log_time                | 21-06-2021 01:01:51 |
+| Iteration               | 2699                |
+| EpisodFramesNumber      | 3825                |
+| TMCount                 | 1625                |
+| RTMCount                | 2479                |
+| Epsilon                 | 0.86585             |
+| Episodes                | 2                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 4000                |
+| AverageEpisodReturn     | 3000                |
+| AverageDiscountedepi... | 22.454              |
+| TDError2                | 1928.6              |
+| TotalFramesNumber       | 13487               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 29                  |
+| Log_time                | 21-06-2021 01:09:13 |
+| Iteration               | 2799                |
+| EpisodFramesNumber      | 4325                |
+| TMCount                 | 2029                |
+| RTMCount                | 2761                |
+| Epsilon                 | 0.86088             |
+| Episodes                | 2                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 4000                |
+| AverageEpisodReturn     | 3000                |
+| AverageDiscountedepi... | 22.454              |
+| TDError2                | 1996.3              |
+| TotalFramesNumber       | 13987               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 30                  |
+| Log_time                | 21-06-2021 01:13:39 |
+| Iteration               | 2845                |
+| EpisodFramesNumber      | 4555                |
+| TMCount                 | 1297                |
+| RTMCount                | 2761                |
+| Epsilon                 | 0.85859             |
+| Episodes                | 2                   |
+| EndOfEpisod             | 1                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 4000                |
+| AverageEpisodReturn     | 3333.3              |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2007                |
+| TotalFramesNumber       | 14217               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 31                  |
+| Log_time                | 21-06-2021 01:16:35 |
+| Iteration               | 2899                |
+| EpisodFramesNumber      | 265                 |
+| TMCount                 | 1571                |
+| RTMCount                | 2761                |
+| Epsilon                 | 0.85591             |
+| Episodes                | 3                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 4000                |
+| AverageEpisodReturn     | 3333.3              |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2014.4              |
+| TotalFramesNumber       | 14486               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 32                  |
+| Log_time                | 21-06-2021 01:24:17 |
+| Iteration               | 2999                |
+| EpisodFramesNumber      | 765                 |
+| TMCount                 | 1994                |
+| RTMCount                | 2961                |
+| Epsilon                 | 0.85094             |
+| Episodes                | 3                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 4000                |
+| AverageEpisodReturn     | 3333.3              |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1988.1              |
+| TotalFramesNumber       | 14986               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 33                  |
+| Log_time                | 21-06-2021 01:32:25 |
+| Iteration               | 3099                |
+| EpisodFramesNumber      | 1265                |
+| TMCount                 | 2345                |
+| RTMCount                | 2961                |
+| Epsilon                 | 0.84597             |
+| Episodes                | 3                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 1000                |
+| EpisodRewardsSum        | 5000                |
+| AverageEpisodReturn     | 3333.3              |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1921.7              |
+| TotalFramesNumber       | 15486               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 34                  |
+| Log_time                | 21-06-2021 01:40:27 |
+| Iteration               | 3199                |
+| EpisodFramesNumber      | 1765                |
+| TMCount                 | 1884                |
+| RTMCount                | 2961                |
+| Epsilon                 | 0.841               |
+| Episodes                | 3                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 1000                |
+| EpisodRewardsSum        | 5000                |
+| AverageEpisodReturn     | 3333.3              |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1940.5              |
+| TotalFramesNumber       | 15986               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 35                  |
+| Log_time                | 21-06-2021 01:48:55 |
+| Iteration               | 3299                |
+| EpisodFramesNumber      | 2265                |
+| TMCount                 | 2287                |
+| RTMCount                | 3170                |
+| Epsilon                 | 0.83603             |
+| Episodes                | 3                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 1000                |
+| EpisodRewardsSum        | 5000                |
+| AverageEpisodReturn     | 3333.3              |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1958.1              |
+| TotalFramesNumber       | 16486               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 36                  |
+| Log_time                | 21-06-2021 01:57:19 |
+| Iteration               | 3399                |
+| EpisodFramesNumber      | 2765                |
+| TMCount                 | 1844                |
+| RTMCount                | 3170                |
+| Epsilon                 | 0.83106             |
+| Episodes                | 3                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 1000                |
+| EpisodRewardsSum        | 5000                |
+| AverageEpisodReturn     | 3333.3              |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1974.6              |
+| TotalFramesNumber       | 16986               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 37                  |
+| Log_time                | 21-06-2021 02:06:07 |
+| Iteration               | 3499                |
+| EpisodFramesNumber      | 3265                |
+| TMCount                 | 2259                |
+| RTMCount                | 3394                |
+| Epsilon                 | 0.82609             |
+| Episodes                | 3                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 1000                |
+| EpisodRewardsSum        | 5000                |
+| AverageEpisodReturn     | 3333.3              |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1990.1              |
+| TotalFramesNumber       | 17486               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 38                  |
+| Log_time                | 21-06-2021 02:14:55 |
+| Iteration               | 3599                |
+| EpisodFramesNumber      | 3765                |
+| TMCount                 | 1856                |
+| RTMCount                | 3394                |
+| Epsilon                 | 0.82112             |
+| Episodes                | 3                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 1000                |
+| EpisodRewardsSum        | 5000                |
+| AverageEpisodReturn     | 3333.3              |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2004.8              |
+| TotalFramesNumber       | 17986               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 39                  |
+| Log_time                | 21-06-2021 02:24:10 |
+| Iteration               | 3699                |
+| EpisodFramesNumber      | 4265                |
+| TMCount                 | 2329                |
+| RTMCount                | 3602                |
+| Epsilon                 | 0.81615             |
+| Episodes                | 3                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 1000                |
+| EpisodRewardsSum        | 5000                |
+| AverageEpisodReturn     | 3333.3              |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1983.9              |
+| TotalFramesNumber       | 18486               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 40                  |
+| Log_time                | 21-06-2021 02:33:24 |
+| Iteration               | 3799                |
+| EpisodFramesNumber      | 4765                |
+| TMCount                 | 1916                |
+| RTMCount                | 3602                |
+| Epsilon                 | 0.81117             |
+| Episodes                | 3                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 1000                |
+| EpisodRewardsSum        | 5000                |
+| AverageEpisodReturn     | 3333.3              |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1930.2              |
+| TotalFramesNumber       | 18986               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 41                  |
+| Log_time                | 21-06-2021 02:39:03 |
+| Iteration               | 3845                |
+| EpisodFramesNumber      | 4995                |
+| TMCount                 | 2150                |
+| RTMCount                | 3798                |
+| Epsilon                 | 0.80889             |
+| Episodes                | 3                   |
+| EndOfEpisod             | 1                   |
+| CurrenteEpisodRewardSum | 2000                |
+| EpisodRewardsSum        | 6000                |
+| AverageEpisodReturn     | 4000                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1905.4              |
+| TotalFramesNumber       | 19216               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 42                  |
+| Log_time                | 21-06-2021 02:43:01 |
+| Iteration               | 3899                |
+| EpisodFramesNumber      | 265                 |
+| TMCount                 | 2379                |
+| RTMCount                | 3798                |
+| Epsilon                 | 0.8062              |
+| Episodes                | 4                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 6000                |
+| AverageEpisodReturn     | 4000                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1912.3              |
+| TotalFramesNumber       | 19483               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 43                  |
+| Log_time                | 21-06-2021 02:52:37 |
+| Iteration               | 3999                |
+| EpisodFramesNumber      | 765                 |
+| TMCount                 | 1944                |
+| RTMCount                | 3798                |
+| Epsilon                 | 0.80123             |
+| Episodes                | 4                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 6000                |
+| AverageEpisodReturn     | 4000                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1895.3              |
+| TotalFramesNumber       | 19983               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 44                  |
+| Log_time                | 21-06-2021 03:02:52 |
+| Iteration               | 4099                |
+| EpisodFramesNumber      | 1265                |
+| TMCount                 | 2436                |
+| RTMCount                | 3986                |
+| Epsilon                 | 0.79626             |
+| Episodes                | 4                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 6000                |
+| AverageEpisodReturn     | 4000                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1847.9              |
+| TotalFramesNumber       | 20483               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 45                  |
+| Log_time                | 21-06-2021 03:13:06 |
+| Iteration               | 4199                |
+| EpisodFramesNumber      | 1765                |
+| TMCount                 | 2046                |
+| RTMCount                | 3986                |
+| Epsilon                 | 0.79129             |
+| Episodes                | 4                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 6000                |
+| AverageEpisodReturn     | 4000                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1833.3              |
+| TotalFramesNumber       | 20983               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 46                  |
+| Log_time                | 21-06-2021 03:23:18 |
+| Iteration               | 4299                |
+| EpisodFramesNumber      | 2265                |
+| TMCount                 | 1689                |
+| RTMCount                | 4169                |
+| Epsilon                 | 0.78632             |
+| Episodes                | 4                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 6000                |
+| AverageEpisodReturn     | 4000                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1879.1              |
+| TotalFramesNumber       | 21483               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 47                  |
+| Log_time                | 21-06-2021 03:33:56 |
+| Iteration               | 4399                |
+| EpisodFramesNumber      | 2765                |
+| TMCount                 | 2223                |
+| RTMCount                | 4352                |
+| Epsilon                 | 0.78135             |
+| Episodes                | 4                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 1000                |
+| EpisodRewardsSum        | 7000                |
+| AverageEpisodReturn     | 4000                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1922.8              |
+| TotalFramesNumber       | 21983               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 48                  |
+| Log_time                | 21-06-2021 03:44:32 |
+| Iteration               | 4499                |
+| EpisodFramesNumber      | 3265                |
+| TMCount                 | 1859                |
+| RTMCount                | 4352                |
+| Epsilon                 | 0.77638             |
+| Episodes                | 4                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 1000                |
+| EpisodRewardsSum        | 7000                |
+| AverageEpisodReturn     | 4000                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1907.5              |
+| TotalFramesNumber       | 22483               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 49                  |
+| Log_time                | 21-06-2021 03:55:32 |
+| Iteration               | 4599                |
+| EpisodFramesNumber      | 3765                |
+| TMCount                 | 2392                |
+| RTMCount                | 4515                |
+| Epsilon                 | 0.77141             |
+| Episodes                | 4                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 1000                |
+| EpisodRewardsSum        | 7000                |
+| AverageEpisodReturn     | 4000                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1865.1              |
+| TotalFramesNumber       | 22983               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 50                  |
+| Log_time                | 21-06-2021 04:06:40 |
+| Iteration               | 4699                |
+| EpisodFramesNumber      | 4265                |
+| TMCount                 | 2031                |
+| RTMCount                | 4515                |
+| Epsilon                 | 0.76644             |
+| Episodes                | 4                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 1000                |
+| EpisodRewardsSum        | 7000                |
+| AverageEpisodReturn     | 4000                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1878.9              |
+| TotalFramesNumber       | 23483               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 51                  |
+| Log_time                | 21-06-2021 04:15:43 |
+| Iteration               | 4774                |
+| EpisodFramesNumber      | 4640                |
+| TMCount                 | 1578                |
+| RTMCount                | 4683                |
+| Epsilon                 | 0.76271             |
+| Episodes                | 4                   |
+| EndOfEpisod             | 1                   |
+| CurrenteEpisodRewardSum | 1000                |
+| EpisodRewardsSum        | 7000                |
+| AverageEpisodReturn     | 4600                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1848.4              |
+| TotalFramesNumber       | 23858               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 52                  |
+| Log_time                | 21-06-2021 04:17:56 |
+| Iteration               | 4799                |
+| EpisodFramesNumber      | 120                 |
+| TMCount                 | 1731                |
+| RTMCount                | 4683                |
+| Epsilon                 | 0.76147             |
+| Episodes                | 5                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 7000                |
+| AverageEpisodReturn     | 4600                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1865.6              |
+| TotalFramesNumber       | 23983               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 53                  |
+| Log_time                | 21-06-2021 04:29:33 |
+| Iteration               | 4899                |
+| EpisodFramesNumber      | 620                 |
+| TMCount                 | 2280                |
+| RTMCount                | 4850                |
+| Epsilon                 | 0.7565              |
+| Episodes                | 5                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 7000                |
+| AverageEpisodReturn     | 4600                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1878.9              |
+| TotalFramesNumber       | 24483               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 54                  |
+| Log_time                | 21-06-2021 04:41:12 |
+| Iteration               | 4999                |
+| EpisodFramesNumber      | 1120                |
+| TMCount                 | 1954                |
+| RTMCount                | 4850                |
+| Epsilon                 | 0.75153             |
+| Episodes                | 5                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 7000                |
+| AverageEpisodReturn     | 4600                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1866                |
+| TotalFramesNumber       | 24983               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 55                  |
+| Log_time                | 21-06-2021 04:53:24 |
+| Iteration               | 5099                |
+| EpisodFramesNumber      | 1620                |
+| TMCount                 | 2511                |
+| RTMCount                | 4996                |
+| Epsilon                 | 0.74656             |
+| Episodes                | 5                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 7000                |
+| AverageEpisodReturn     | 4600                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1828.7              |
+| TotalFramesNumber       | 25483               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 56                  |
+| Log_time                | 21-06-2021 05:05:27 |
+| Iteration               | 5199                |
+| EpisodFramesNumber      | 2120                |
+| TMCount                 | 2144                |
+| RTMCount                | 4996                |
+| Epsilon                 | 0.74159             |
+| Episodes                | 5                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 1000                |
+| EpisodRewardsSum        | 8000                |
+| AverageEpisodReturn     | 4600                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1841.9              |
+| TotalFramesNumber       | 25983               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 57                  |
+| Log_time                | 21-06-2021 05:17:37 |
+| Iteration               | 5299                |
+| EpisodFramesNumber      | 2620                |
+| TMCount                 | 1833                |
+| RTMCount                | 5155                |
+| Epsilon                 | 0.73662             |
+| Episodes                | 5                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 1000                |
+| EpisodRewardsSum        | 8000                |
+| AverageEpisodReturn     | 4600                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1806.5              |
+| TotalFramesNumber       | 26483               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 58                  |
+| Log_time                | 21-06-2021 05:30:10 |
+| Iteration               | 5399                |
+| EpisodFramesNumber      | 3120                |
+| TMCount                 | 2426                |
+| RTMCount                | 5320                |
+| Epsilon                 | 0.73165             |
+| Episodes                | 5                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 1000                |
+| EpisodRewardsSum        | 8000                |
+| AverageEpisodReturn     | 4600                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1866.9              |
+| TotalFramesNumber       | 26983               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 59                  |
+| Log_time                | 21-06-2021 05:42:58 |
+| Iteration               | 5499                |
+| EpisodFramesNumber      | 3620                |
+| TMCount                 | 2096                |
+| RTMCount                | 5320                |
+| Epsilon                 | 0.72668             |
+| Episodes                | 5                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 1000                |
+| EpisodRewardsSum        | 8000                |
+| AverageEpisodReturn     | 4600                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1855.5              |
+| TotalFramesNumber       | 27483               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 60                  |
+| Log_time                | 21-06-2021 05:55:56 |
+| Iteration               | 5599                |
+| EpisodFramesNumber      | 4120                |
+| TMCount                 | 1787                |
+| RTMCount                | 5468                |
+| Epsilon                 | 0.72171             |
+| Episodes                | 5                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 1000                |
+| EpisodRewardsSum        | 8000                |
+| AverageEpisodReturn     | 4600                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1844.5              |
+| TotalFramesNumber       | 27983               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 61                  |
+| Log_time                | 21-06-2021 06:02:15 |
+| Iteration               | 5636                |
+| EpisodFramesNumber      | 4305                |
+| TMCount                 | 2024                |
+| RTMCount                | 5627                |
+| Epsilon                 | 0.71987             |
+| Episodes                | 5                   |
+| EndOfEpisod             | 1                   |
+| CurrenteEpisodRewardSum | 1000                |
+| EpisodRewardsSum        | 8000                |
+| AverageEpisodReturn     | 5166.7              |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1832.5              |
+| TotalFramesNumber       | 28168               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 62                  |
+| Log_time                | 21-06-2021 06:09:08 |
+| Iteration               | 5699                |
+| EpisodFramesNumber      | 310                 |
+| TMCount                 | 2409                |
+| RTMCount                | 5627                |
+| Epsilon                 | 0.71674             |
+| Episodes                | 6                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 8000                |
+| AverageEpisodReturn     | 5166.7              |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1833.9              |
+| TotalFramesNumber       | 28482               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 63                  |
+| Log_time                | 21-06-2021 06:22:20 |
+| Iteration               | 5799                |
+| EpisodFramesNumber      | 810                 |
+| TMCount                 | 2095                |
+| RTMCount                | 5627                |
+| Epsilon                 | 0.71177             |
+| Episodes                | 6                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 8000                |
+| AverageEpisodReturn     | 5166.7              |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1823.7              |
+| TotalFramesNumber       | 28982               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 64                  |
+| Log_time                | 21-06-2021 06:35:43 |
+| Iteration               | 5899                |
+| EpisodFramesNumber      | 1310                |
+| TMCount                 | 1827                |
+| RTMCount                | 5774                |
+| Epsilon                 | 0.7068              |
+| Episodes                | 6                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 8000                |
+| AverageEpisodReturn     | 5166.7              |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1813.8              |
+| TotalFramesNumber       | 29482               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 65                  |
+| Log_time                | 21-06-2021 06:49:25 |
+| Iteration               | 5999                |
+| EpisodFramesNumber      | 1810                |
+| TMCount                 | 2448                |
+| RTMCount                | 5911                |
+| Epsilon                 | 0.70183             |
+| Episodes                | 6                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 8000                |
+| AverageEpisodReturn     | 5166.7              |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1804.2              |
+| TotalFramesNumber       | 29982               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 66                  |
+| Log_time                | 21-06-2021 07:03:40 |
+| Iteration               | 6099                |
+| EpisodFramesNumber      | 2310                |
+| TMCount                 | 2135                |
+| RTMCount                | 5911                |
+| Epsilon                 | 0.69686             |
+| Episodes                | 6                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 8000                |
+| AverageEpisodReturn     | 5166.7              |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1795                |
+| TotalFramesNumber       | 30482               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 67                  |
+| Log_time                | 21-06-2021 07:18:07 |
+| Iteration               | 6199                |
+| EpisodFramesNumber      | 2810                |
+| TMCount                 | 1848                |
+| RTMCount                | 6050                |
+| Epsilon                 | 0.69189             |
+| Episodes                | 6                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 8000                |
+| AverageEpisodReturn     | 5166.7              |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1786.1              |
+| TotalFramesNumber       | 30982               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 68                  |
+| Log_time                | 21-06-2021 07:32:44 |
+| Iteration               | 6299                |
+| EpisodFramesNumber      | 3310                |
+| TMCount                 | 2479                |
+| RTMCount                | 6206                |
+| Epsilon                 | 0.68691             |
+| Episodes                | 6                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 8000                |
+| AverageEpisodReturn     | 5166.7              |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1797.7              |
+| TotalFramesNumber       | 31482               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 69                  |
+| Log_time                | 21-06-2021 07:47:11 |
+| Iteration               | 6399                |
+| EpisodFramesNumber      | 3810                |
+| TMCount                 | 2168                |
+| RTMCount                | 6206                |
+| Epsilon                 | 0.68194             |
+| Episodes                | 6                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 8000                |
+| AverageEpisodReturn     | 5166.7              |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1769.1              |
+| TotalFramesNumber       | 31982               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 70                  |
+| Log_time                | 21-06-2021 08:01:55 |
+| Iteration               | 6499                |
+| EpisodFramesNumber      | 4310                |
+| TMCount                 | 1888                |
+| RTMCount                | 6346                |
+| Epsilon                 | 0.67697             |
+| Episodes                | 6                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 8000                |
+| AverageEpisodReturn     | 5166.7              |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1761                |
+| TotalFramesNumber       | 32482               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 71                  |
+| Log_time                | 21-06-2021 08:17:27 |
+| Iteration               | 6599                |
+| EpisodFramesNumber      | 4810                |
+| TMCount                 | 2538                |
+| RTMCount                | 6496                |
+| Epsilon                 | 0.672               |
+| Episodes                | 6                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 8000                |
+| AverageEpisodReturn     | 5166.7              |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1733.9              |
+| TotalFramesNumber       | 32982               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 72                  |
+| Log_time                | 21-06-2021 08:22:05 |
+| Iteration               | 6614                |
+| EpisodFramesNumber      | 4885                |
+| TMCount                 | 1656                |
+| RTMCount                | 6496                |
+| Epsilon                 | 0.67126             |
+| Episodes                | 6                   |
+| EndOfEpisod             | 1                   |
+| CurrenteEpisodRewardSum | 1000                |
+| EpisodRewardsSum        | 9000                |
+| AverageEpisodReturn     | 5714.3              |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1729.6              |
+| TotalFramesNumber       | 33057               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 73                  |
+| Log_time                | 21-06-2021 08:32:31 |
+| Iteration               | 6699                |
+| EpisodFramesNumber      | 420                 |
+| TMCount                 | 2230                |
+| RTMCount                | 6496                |
+| Epsilon                 | 0.66703             |
+| Episodes                | 7                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 1000                |
+| EpisodRewardsSum        | 10000               |
+| AverageEpisodReturn     | 5714.3              |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1707.6              |
+| TotalFramesNumber       | 33479               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 74                  |
+| Log_time                | 21-06-2021 08:47:39 |
+| Iteration               | 6799                |
+| EpisodFramesNumber      | 920                 |
+| TMCount                 | 1951                |
+| RTMCount                | 6640                |
+| Epsilon                 | 0.66206             |
+| Episodes                | 7                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 1000                |
+| EpisodRewardsSum        | 10000               |
+| AverageEpisodReturn     | 5714.3              |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1700.8              |
+| TotalFramesNumber       | 33979               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 75                  |
+| Log_time                | 21-06-2021 09:03:26 |
+| Iteration               | 6899                |
+| EpisodFramesNumber      | 1420                |
+| TMCount                 | 2592                |
+| RTMCount                | 6772                |
+| Epsilon                 | 0.65709             |
+| Episodes                | 7                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 1000                |
+| EpisodRewardsSum        | 10000               |
+| AverageEpisodReturn     | 5714.3              |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1694.2              |
+| TotalFramesNumber       | 34479               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 76                  |
+| Log_time                | 21-06-2021 09:19:36 |
+| Iteration               | 6999                |
+| EpisodFramesNumber      | 1920                |
+| TMCount                 | 2306                |
+| RTMCount                | 6772                |
+| Epsilon                 | 0.65212             |
+| Episodes                | 7                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 1000                |
+| EpisodRewardsSum        | 10000               |
+| AverageEpisodReturn     | 5714.3              |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1687.7              |
+| TotalFramesNumber       | 34979               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 77                  |
+| Log_time                | 21-06-2021 09:35:55 |
+| Iteration               | 7099                |
+| EpisodFramesNumber      | 2420                |
+| TMCount                 | 2034                |
+| RTMCount                | 6912                |
+| Epsilon                 | 0.64715             |
+| Episodes                | 7                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 2000                |
+| EpisodRewardsSum        | 11000               |
+| AverageEpisodReturn     | 5714.3              |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1663.6              |
+| TotalFramesNumber       | 35479               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 78                  |
+| Log_time                | 21-06-2021 09:52:02 |
+| Iteration               | 7199                |
+| EpisodFramesNumber      | 2920                |
+| TMCount                 | 1787                |
+| RTMCount                | 7059                |
+| Epsilon                 | 0.64218             |
+| Episodes                | 7                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 2000                |
+| EpisodRewardsSum        | 11000               |
+| AverageEpisodReturn     | 5714.3              |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1640.2              |
+| TotalFramesNumber       | 35979               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 79                  |
+| Log_time                | 21-06-2021 10:08:58 |
+| Iteration               | 7299                |
+| EpisodFramesNumber      | 3420                |
+| TMCount                 | 2457                |
+| RTMCount                | 7198                |
+| Epsilon                 | 0.63721             |
+| Episodes                | 7                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 2000                |
+| EpisodRewardsSum        | 11000               |
+| AverageEpisodReturn     | 5714.3              |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1634.8              |
+| TotalFramesNumber       | 36479               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 80                  |
+| Log_time                | 21-06-2021 10:14:00 |
+| Iteration               | 7313                |
+| EpisodFramesNumber      | 3490                |
+| TMCount                 | 1564                |
+| RTMCount                | 7198                |
+| Epsilon                 | 0.63651             |
+| Episodes                | 7                   |
+| EndOfEpisod             | 1                   |
+| CurrenteEpisodRewardSum | 2000                |
+| EpisodRewardsSum        | 11000               |
+| AverageEpisodReturn     | 6375                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1631.1              |
+| TotalFramesNumber       | 36549               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 81                  |
+| Log_time                | 21-06-2021 10:25:36 |
+| Iteration               | 7399                |
+| EpisodFramesNumber      | 425                 |
+| TMCount                 | 2170                |
+| RTMCount                | 7198                |
+| Epsilon                 | 0.63224             |
+| Episodes                | 8                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 11000               |
+| AverageEpisodReturn     | 6375                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1681                |
+| TotalFramesNumber       | 36977               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 82                  |
+| Log_time                | 21-06-2021 10:42:24 |
+| Iteration               | 7499                |
+| EpisodFramesNumber      | 925                 |
+| TMCount                 | 1938                |
+| RTMCount                | 7332                |
+| Epsilon                 | 0.62727             |
+| Episodes                | 8                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 11000               |
+| AverageEpisodReturn     | 6375                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1692.1              |
+| TotalFramesNumber       | 37477               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 83                  |
+| Log_time                | 21-06-2021 10:59:32 |
+| Iteration               | 7599                |
+| EpisodFramesNumber      | 1425                |
+| TMCount                 | 2610                |
+| RTMCount                | 7457                |
+| Epsilon                 | 0.6223              |
+| Episodes                | 8                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 11000               |
+| AverageEpisodReturn     | 6375                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1669.5              |
+| TotalFramesNumber       | 37977               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 84                  |
+| Log_time                | 21-06-2021 11:17:09 |
+| Iteration               | 7699                |
+| EpisodFramesNumber      | 1925                |
+| TMCount                 | 2335                |
+| RTMCount                | 7457                |
+| Epsilon                 | 0.61733             |
+| Episodes                | 8                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 11000               |
+| AverageEpisodReturn     | 6375                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1664                |
+| TotalFramesNumber       | 38477               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 85                  |
+| Log_time                | 21-06-2021 11:34:31 |
+| Iteration               | 7799                |
+| EpisodFramesNumber      | 2425                |
+| TMCount                 | 2075                |
+| RTMCount                | 7589                |
+| Epsilon                 | 0.61236             |
+| Episodes                | 8                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 11000               |
+| AverageEpisodReturn     | 6375                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1674.9              |
+| TotalFramesNumber       | 38977               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 86                  |
+| Log_time                | 21-06-2021 11:52:13 |
+| Iteration               | 7899                |
+| EpisodFramesNumber      | 2925                |
+| TMCount                 | 1853                |
+| RTMCount                | 7730                |
+| Epsilon                 | 0.60739             |
+| Episodes                | 8                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 11000               |
+| AverageEpisodReturn     | 6375                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1669.4              |
+| TotalFramesNumber       | 39477               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 87                  |
+| Log_time                | 21-06-2021 12:10:33 |
+| Iteration               | 7999                |
+| EpisodFramesNumber      | 3425                |
+| TMCount                 | 2537                |
+| RTMCount                | 7865                |
+| Epsilon                 | 0.60242             |
+| Episodes                | 8                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 11000               |
+| AverageEpisodReturn     | 6375                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1695.8              |
+| TotalFramesNumber       | 39977               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 88                  |
+| Log_time                | 21-06-2021 12:29:04 |
+| Iteration               | 8099                |
+| EpisodFramesNumber      | 3925                |
+| TMCount                 | 2259                |
+| RTMCount                | 7865                |
+| Epsilon                 | 0.59745             |
+| Episodes                | 8                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 11000               |
+| AverageEpisodReturn     | 6375                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1690.3              |
+| TotalFramesNumber       | 40477               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 89                  |
+| Log_time                | 21-06-2021 12:43:39 |
+| Iteration               | 8174                |
+| EpisodFramesNumber      | 4300                |
+| TMCount                 | 1822                |
+| RTMCount                | 7996                |
+| Epsilon                 | 0.59372             |
+| Episodes                | 8                   |
+| EndOfEpisod             | 1                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 11000               |
+| AverageEpisodReturn     | 6888.9              |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1674.4              |
+| TotalFramesNumber       | 40852               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 90                  |
+| Log_time                | 21-06-2021 12:47:20 |
+| Iteration               | 8199                |
+| EpisodFramesNumber      | 120                 |
+| TMCount                 | 1992                |
+| RTMCount                | 7996                |
+| Epsilon                 | 0.59248             |
+| Episodes                | 9                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 11000               |
+| AverageEpisodReturn     | 6888.9              |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1669.4              |
+| TotalFramesNumber       | 40977               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 91                  |
+| Log_time                | 21-06-2021 13:06:17 |
+| Iteration               | 8299                |
+| EpisodFramesNumber      | 620                 |
+| TMCount                 | 2662                |
+| RTMCount                | 8135                |
+| Epsilon                 | 0.58751             |
+| Episodes                | 9                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 11000               |
+| AverageEpisodReturn     | 6888.9              |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1694.8              |
+| TotalFramesNumber       | 41477               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 92                  |
+| Log_time                | 21-06-2021 13:25:06 |
+| Iteration               | 8399                |
+| EpisodFramesNumber      | 1120                |
+| TMCount                 | 2370                |
+| RTMCount                | 8135                |
+| Epsilon                 | 0.58254             |
+| Episodes                | 9                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 11000               |
+| AverageEpisodReturn     | 6888.9              |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1674.4              |
+| TotalFramesNumber       | 41977               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 93                  |
+| Log_time                | 21-06-2021 13:43:58 |
+| Iteration               | 8499                |
+| EpisodFramesNumber      | 1620                |
+| TMCount                 | 2124                |
+| RTMCount                | 8256                |
+| Epsilon                 | 0.57757             |
+| Episodes                | 9                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 11000               |
+| AverageEpisodReturn     | 6888.9              |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1669.3              |
+| TotalFramesNumber       | 42477               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 94                  |
+| Log_time                | 21-06-2021 14:03:19 |
+| Iteration               | 8599                |
+| EpisodFramesNumber      | 2120                |
+| TMCount                 | 1868                |
+| RTMCount                | 8398                |
+| Epsilon                 | 0.5726              |
+| Episodes                | 9                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 11000               |
+| AverageEpisodReturn     | 6888.9              |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1693.9              |
+| TotalFramesNumber       | 42977               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 95                  |
+| Log_time                | 21-06-2021 14:23:07 |
+| Iteration               | 8699                |
+| EpisodFramesNumber      | 2620                |
+| TMCount                 | 2577                |
+| RTMCount                | 8531                |
+| Epsilon                 | 0.56763             |
+| Episodes                | 9                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 11000               |
+| AverageEpisodReturn     | 6888.9              |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1674.2              |
+| TotalFramesNumber       | 43477               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 96                  |
+| Log_time                | 21-06-2021 14:42:36 |
+| Iteration               | 8799                |
+| EpisodFramesNumber      | 3120                |
+| TMCount                 | 2308                |
+| RTMCount                | 8531                |
+| Epsilon                 | 0.56265             |
+| Episodes                | 9                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 11000               |
+| AverageEpisodReturn     | 6888.9              |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1698.1              |
+| TotalFramesNumber       | 43977               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 97                  |
+| Log_time                | 21-06-2021 15:02:19 |
+| Iteration               | 8899                |
+| EpisodFramesNumber      | 3620                |
+| TMCount                 | 2070                |
+| RTMCount                | 8663                |
+| Epsilon                 | 0.55768             |
+| Episodes                | 9                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 11000               |
+| AverageEpisodReturn     | 6888.9              |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1707.2              |
+| TotalFramesNumber       | 44477               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 98                  |
+| Log_time                | 21-06-2021 15:22:33 |
+| Iteration               | 8999                |
+| EpisodFramesNumber      | 4120                |
+| TMCount                 | 1854                |
+| RTMCount                | 8803                |
+| Epsilon                 | 0.55271             |
+| Episodes                | 9                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 11000               |
+| AverageEpisodReturn     | 6888.9              |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1688                |
+| TotalFramesNumber       | 44977               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 99                  |
+| Log_time                | 21-06-2021 15:43:24 |
+| Iteration               | 9099                |
+| EpisodFramesNumber      | 4620                |
+| TMCount                 | 2565                |
+| RTMCount                | 8934                |
+| Epsilon                 | 0.54774             |
+| Episodes                | 9                   |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 11000               |
+| AverageEpisodReturn     | 6888.9              |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1669.3              |
+| TotalFramesNumber       | 45477               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 100                 |
+| Log_time                | 21-06-2021 15:47:28 |
+| Iteration               | 9102                |
+| EpisodFramesNumber      | 4635                |
+| TMCount                 | 1597                |
+| RTMCount                | 8934                |
+| Epsilon                 | 0.54759             |
+| Episodes                | 9                   |
+| EndOfEpisod             | 1                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 11000               |
+| AverageEpisodReturn     | 7300                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1668.5              |
+| TotalFramesNumber       | 45492               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 101                 |
+| Log_time                | 21-06-2021 16:04:09 |
+| Iteration               | 9199                |
+| EpisodFramesNumber      | 480                 |
+| TMCount                 | 2307                |
+| RTMCount                | 8934                |
+| Epsilon                 | 0.54277             |
+| Episodes                | 10                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 11000               |
+| AverageEpisodReturn     | 7300                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1678.4              |
+| TotalFramesNumber       | 45974               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 102                 |
+| Log_time                | 21-06-2021 16:25:11 |
+| Iteration               | 9299                |
+| EpisodFramesNumber      | 980                 |
+| TMCount                 | 2079                |
+| RTMCount                | 9063                |
+| Epsilon                 | 0.5378              |
+| Episodes                | 10                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 11000               |
+| AverageEpisodReturn     | 7300                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1660.2              |
+| TotalFramesNumber       | 46474               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 103                 |
+| Log_time                | 21-06-2021 16:45:49 |
+| Iteration               | 9399                |
+| EpisodFramesNumber      | 1480                |
+| TMCount                 | 1877                |
+| RTMCount                | 9181                |
+| Epsilon                 | 0.53283             |
+| Episodes                | 10                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 11000               |
+| AverageEpisodReturn     | 7300                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1655.8              |
+| TotalFramesNumber       | 46974               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 104                 |
+| Log_time                | 21-06-2021 17:06:57 |
+| Iteration               | 9499                |
+| EpisodFramesNumber      | 1980                |
+| TMCount                 | 2592                |
+| RTMCount                | 9310                |
+| Epsilon                 | 0.52786             |
+| Episodes                | 10                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 11000               |
+| AverageEpisodReturn     | 7300                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1638.1              |
+| TotalFramesNumber       | 47474               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 105                 |
+| Log_time                | 21-06-2021 17:28:11 |
+| Iteration               | 9599                |
+| EpisodFramesNumber      | 2480                |
+| TMCount                 | 2357                |
+| RTMCount                | 9310                |
+| Epsilon                 | 0.52289             |
+| Episodes                | 10                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 11000               |
+| AverageEpisodReturn     | 7300                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1634.1              |
+| TotalFramesNumber       | 47974               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 106                 |
+| Log_time                | 21-06-2021 17:49:38 |
+| Iteration               | 9699                |
+| EpisodFramesNumber      | 2980                |
+| TMCount                 | 2136                |
+| RTMCount                | 9438                |
+| Epsilon                 | 0.51792             |
+| Episodes                | 10                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 11000               |
+| AverageEpisodReturn     | 7300                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1630.1              |
+| TotalFramesNumber       | 48474               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 107                 |
+| Log_time                | 21-06-2021 18:10:58 |
+| Iteration               | 9799                |
+| EpisodFramesNumber      | 3480                |
+| TMCount                 | 1928                |
+| RTMCount                | 9574                |
+| Epsilon                 | 0.51295             |
+| Episodes                | 10                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 11000               |
+| AverageEpisodReturn     | 7300                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1626.2              |
+| TotalFramesNumber       | 48974               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 108                 |
+| Log_time                | 21-06-2021 18:32:44 |
+| Iteration               | 9899                |
+| EpisodFramesNumber      | 3980                |
+| TMCount                 | 2637                |
+| RTMCount                | 9700                |
+| Epsilon                 | 0.50798             |
+| Episodes                | 10                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 11000               |
+| AverageEpisodReturn     | 7300                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1647.9              |
+| TotalFramesNumber       | 49474               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 109                 |
+| Log_time                | 21-06-2021 18:54:35 |
+| Iteration               | 9999                |
+| EpisodFramesNumber      | 4480                |
+| TMCount                 | 2400                |
+| RTMCount                | 9700                |
+| Epsilon                 | 0.50301             |
+| Episodes                | 10                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 11000               |
+| AverageEpisodReturn     | 7300                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1643.9              |
+| TotalFramesNumber       | 49974               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 110                 |
+| Log_time                | 21-06-2021 19:17:11 |
+| Iteration               | 10098               |
+| EpisodFramesNumber      | 4975                |
+| TMCount                 | 2173                |
+| RTMCount                | 9827                |
+| Epsilon                 | 0.49809             |
+| Episodes                | 10                  |
+| EndOfEpisod             | 1                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 11000               |
+| AverageEpisodReturn     | 8200                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1627.5              |
+| TotalFramesNumber       | 50469               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 111                 |
+| Log_time                | 21-06-2021 19:17:11 |
+| Iteration               | 10099               |
+| EpisodFramesNumber      | 0                   |
+| TMCount                 | 2174                |
+| RTMCount                | 9827                |
+| Epsilon                 | 0.49804             |
+| Episodes                | 11                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 11000               |
+| AverageEpisodReturn     | 8200                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1627.5              |
+| TotalFramesNumber       | 50473               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 112                 |
+| Log_time                | 21-06-2021 19:39:39 |
+| Iteration               | 10199               |
+| EpisodFramesNumber      | 500                 |
+| TMCount                 | 1941                |
+| RTMCount                | 9961                |
+| Epsilon                 | 0.49307             |
+| Episodes                | 11                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 11000               |
+| AverageEpisodReturn     | 8200                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1623.7              |
+| TotalFramesNumber       | 50973               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 113                 |
+| Log_time                | 21-06-2021 20:02:32 |
+| Iteration               | 10299               |
+| EpisodFramesNumber      | 1000                |
+| TMCount                 | 2673                |
+| RTMCount                | 10093               |
+| Epsilon                 | 0.4881              |
+| Episodes                | 11                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 1000                |
+| EpisodRewardsSum        | 12000               |
+| AverageEpisodReturn     | 8200                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1620.1              |
+| TotalFramesNumber       | 51473               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 114                 |
+| Log_time                | 21-06-2021 20:25:23 |
+| Iteration               | 10399               |
+| EpisodFramesNumber      | 1500                |
+| TMCount                 | 2415                |
+| RTMCount                | 10093               |
+| Epsilon                 | 0.48313             |
+| Episodes                | 11                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 1000                |
+| EpisodRewardsSum        | 12000               |
+| AverageEpisodReturn     | 8200                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1616.5              |
+| TotalFramesNumber       | 51973               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 115                 |
+| Log_time                | 21-06-2021 20:48:12 |
+| Iteration               | 10499               |
+| EpisodFramesNumber      | 2000                |
+| TMCount                 | 2177                |
+| RTMCount                | 10196               |
+| Epsilon                 | 0.47816             |
+| Episodes                | 11                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 1000                |
+| EpisodRewardsSum        | 12000               |
+| AverageEpisodReturn     | 8200                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1601                |
+| TotalFramesNumber       | 52473               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 116                 |
+| Log_time                | 21-06-2021 21:11:11 |
+| Iteration               | 10599               |
+| EpisodFramesNumber      | 2500                |
+| TMCount                 | 1961                |
+| RTMCount                | 10332               |
+| Epsilon                 | 0.47319             |
+| Episodes                | 11                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 1000                |
+| EpisodRewardsSum        | 12000               |
+| AverageEpisodReturn     | 8200                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1585.7              |
+| TotalFramesNumber       | 52973               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 117                 |
+| Log_time                | 21-06-2021 21:34:41 |
+| Iteration               | 10699               |
+| EpisodFramesNumber      | 3000                |
+| TMCount                 | 2697                |
+| RTMCount                | 10462               |
+| Epsilon                 | 0.46822             |
+| Episodes                | 11                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 1000                |
+| EpisodRewardsSum        | 12000               |
+| AverageEpisodReturn     | 8200                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1594.4              |
+| TotalFramesNumber       | 53473               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 118                 |
+| Log_time                | 21-06-2021 21:58:16 |
+| Iteration               | 10799               |
+| EpisodFramesNumber      | 3500                |
+| TMCount                 | 2464                |
+| RTMCount                | 10462               |
+| Epsilon                 | 0.46325             |
+| Episodes                | 11                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 7000                |
+| EpisodRewardsSum        | 18000               |
+| AverageEpisodReturn     | 8200                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1579.5              |
+| TotalFramesNumber       | 53973               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 119                 |
+| Log_time                | 21-06-2021 22:22:01 |
+| Iteration               | 10899               |
+| EpisodFramesNumber      | 4000                |
+| TMCount                 | 2241                |
+| RTMCount                | 10590               |
+| Epsilon                 | 0.45828             |
+| Episodes                | 11                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 7000                |
+| EpisodRewardsSum        | 18000               |
+| AverageEpisodReturn     | 8200                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1576.4              |
+| TotalFramesNumber       | 54473               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 120                 |
+| Log_time                | 21-06-2021 22:46:01 |
+| Iteration               | 10999               |
+| EpisodFramesNumber      | 4500                |
+| TMCount                 | 2039                |
+| RTMCount                | 10722               |
+| Epsilon                 | 0.45331             |
+| Episodes                | 11                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 7000                |
+| EpisodRewardsSum        | 18000               |
+| AverageEpisodReturn     | 8200                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1584.9              |
+| TotalFramesNumber       | 54973               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 121                 |
+| Log_time                | 21-06-2021 23:09:48 |
+| Iteration               | 11093               |
+| EpisodFramesNumber      | 4970                |
+| TMCount                 | 1801                |
+| RTMCount                | 10854               |
+| Epsilon                 | 0.44863             |
+| Episodes                | 11                  |
+| EndOfEpisod             | 1                   |
+| CurrenteEpisodRewardSum | 7000                |
+| EpisodRewardsSum        | 18000               |
+| AverageEpisodReturn     | 9600                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1582.4              |
+| TotalFramesNumber       | 55443               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 122                 |
+| Log_time                | 21-06-2021 23:10:37 |
+| Iteration               | 11099               |
+| EpisodFramesNumber      | 25                  |
+| TMCount                 | 1829                |
+| RTMCount                | 10854               |
+| Epsilon                 | 0.44834             |
+| Episodes                | 12                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 18000               |
+| AverageEpisodReturn     | 9600                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1581.9              |
+| TotalFramesNumber       | 55471               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 123                 |
+| Log_time                | 21-06-2021 23:35:24 |
+| Iteration               | 11199               |
+| EpisodFramesNumber      | 525                 |
+| TMCount                 | 2567                |
+| RTMCount                | 10976               |
+| Epsilon                 | 0.44337             |
+| Episodes                | 12                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 18000               |
+| AverageEpisodReturn     | 9600                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1567.6              |
+| TotalFramesNumber       | 55971               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 124                 |
+| Log_time                | 22-06-2021 00:00:05 |
+| Iteration               | 11299               |
+| EpisodFramesNumber      | 1025                |
+| TMCount                 | 2317                |
+| RTMCount                | 10976               |
+| Epsilon                 | 0.43839             |
+| Episodes                | 12                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 18000               |
+| AverageEpisodReturn     | 9600                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1598.3              |
+| TotalFramesNumber       | 56471               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 125                 |
+| Log_time                | 22-06-2021 00:24:41 |
+| Iteration               | 11399               |
+| EpisodFramesNumber      | 1525                |
+| TMCount                 | 2102                |
+| RTMCount                | 11086               |
+| Epsilon                 | 0.43342             |
+| Episodes                | 12                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 1000                |
+| EpisodRewardsSum        | 19000               |
+| AverageEpisodReturn     | 9600                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1584.2              |
+| TotalFramesNumber       | 56971               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 126                 |
+| Log_time                | 22-06-2021 00:49:35 |
+| Iteration               | 11499               |
+| EpisodFramesNumber      | 2025                |
+| TMCount                 | 1897                |
+| RTMCount                | 11221               |
+| Epsilon                 | 0.42845             |
+| Episodes                | 12                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 1000                |
+| EpisodRewardsSum        | 19000               |
+| AverageEpisodReturn     | 9600                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1570.3              |
+| TotalFramesNumber       | 57471               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 127                 |
+| Log_time                | 22-06-2021 01:14:44 |
+| Iteration               | 11599               |
+| EpisodFramesNumber      | 2525                |
+| TMCount                 | 2644                |
+| RTMCount                | 11345               |
+| Epsilon                 | 0.42348             |
+| Episodes                | 12                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 1000                |
+| EpisodRewardsSum        | 19000               |
+| AverageEpisodReturn     | 9600                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1567.5              |
+| TotalFramesNumber       | 57971               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 128                 |
+| Log_time                | 22-06-2021 01:40:07 |
+| Iteration               | 11699               |
+| EpisodFramesNumber      | 3025                |
+| TMCount                 | 2414                |
+| RTMCount                | 11345               |
+| Epsilon                 | 0.41851             |
+| Episodes                | 12                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 1000                |
+| EpisodRewardsSum        | 19000               |
+| AverageEpisodReturn     | 9600                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1564.8              |
+| TotalFramesNumber       | 58471               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 129                 |
+| Log_time                | 22-06-2021 02:05:46 |
+| Iteration               | 11799               |
+| EpisodFramesNumber      | 3525                |
+| TMCount                 | 2205                |
+| RTMCount                | 11470               |
+| Epsilon                 | 0.41354             |
+| Episodes                | 12                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 1000                |
+| EpisodRewardsSum        | 19000               |
+| AverageEpisodReturn     | 9600                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1572.8              |
+| TotalFramesNumber       | 58971               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 130                 |
+| Log_time                | 22-06-2021 02:31:22 |
+| Iteration               | 11899               |
+| EpisodFramesNumber      | 4025                |
+| TMCount                 | 2009                |
+| RTMCount                | 11602               |
+| Epsilon                 | 0.40857             |
+| Episodes                | 12                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 6000                |
+| EpisodRewardsSum        | 24000               |
+| AverageEpisodReturn     | 9600                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1559.4              |
+| TotalFramesNumber       | 59471               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 131                 |
+| Log_time                | 22-06-2021 02:57:04 |
+| Iteration               | 11999               |
+| EpisodFramesNumber      | 4525                |
+| TMCount                 | 1827                |
+| RTMCount                | 11726               |
+| Epsilon                 | 0.4036              |
+| Episodes                | 12                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 6000                |
+| EpisodRewardsSum        | 24000               |
+| AverageEpisodReturn     | 9600                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1556.8              |
+| TotalFramesNumber       | 59971               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 132                 |
+| Log_time                | 22-06-2021 03:23:53 |
+| Iteration               | 12099               |
+| EpisodFramesNumber      | 5025                |
+| TMCount                 | 2585                |
+| RTMCount                | 11850               |
+| Epsilon                 | 0.39863             |
+| Episodes                | 12                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 6000                |
+| EpisodRewardsSum        | 24000               |
+| AverageEpisodReturn     | 9600                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1543.9              |
+| TotalFramesNumber       | 60471               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 133                 |
+| Log_time                | 22-06-2021 03:50:20 |
+| Iteration               | 12199               |
+| EpisodFramesNumber      | 5525                |
+| TMCount                 | 2354                |
+| RTMCount                | 11850               |
+| Epsilon                 | 0.39366             |
+| Episodes                | 12                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 6000                |
+| EpisodRewardsSum        | 24000               |
+| AverageEpisodReturn     | 9600                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1541.4              |
+| TotalFramesNumber       | 60971               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 134                 |
+| Log_time                | 22-06-2021 04:16:59 |
+| Iteration               | 12299               |
+| EpisodFramesNumber      | 6025                |
+| TMCount                 | 2135                |
+| RTMCount                | 11973               |
+| Epsilon                 | 0.38869             |
+| Episodes                | 12                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 6000                |
+| EpisodRewardsSum        | 24000               |
+| AverageEpisodReturn     | 9600                |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1539.1              |
+| TotalFramesNumber       | 61471               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 135                 |
+| Log_time                | 22-06-2021 04:32:52 |
+| Iteration               | 12351               |
+| EpisodFramesNumber      | 6285                |
+| TMCount                 | 1567                |
+| RTMCount                | 12105               |
+| Epsilon                 | 0.38611             |
+| Episodes                | 12                  |
+| EndOfEpisod             | 1                   |
+| CurrenteEpisodRewardSum | 7000                |
+| EpisodRewardsSum        | 25000               |
+| AverageEpisodReturn     | 11700               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1532.5              |
+| TotalFramesNumber       | 61731               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 136                 |
+| Log_time                | 22-06-2021 04:43:54 |
+| Iteration               | 12399               |
+| EpisodFramesNumber      | 235                 |
+| TMCount                 | 1952                |
+| RTMCount                | 12105               |
+| Epsilon                 | 0.38372             |
+| Episodes                | 13                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 25000               |
+| AverageEpisodReturn     | 11700               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1536.7              |
+| TotalFramesNumber       | 61970               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 137                 |
+| Log_time                | 22-06-2021 05:11:12 |
+| Iteration               | 12499               |
+| EpisodFramesNumber      | 735                 |
+| TMCount                 | 2698                |
+| RTMCount                | 12233               |
+| Epsilon                 | 0.37875             |
+| Episodes                | 13                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 25000               |
+| AverageEpisodReturn     | 11700               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1776.5              |
+| TotalFramesNumber       | 62470               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 138                 |
+| Log_time                | 22-06-2021 05:38:37 |
+| Iteration               | 12599               |
+| EpisodFramesNumber      | 1235                |
+| TMCount                 | 2465                |
+| RTMCount                | 12233               |
+| Epsilon                 | 0.37378             |
+| Episodes                | 13                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 25000               |
+| AverageEpisodReturn     | 11700               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2022.4              |
+| TotalFramesNumber       | 62970               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 139                 |
+| Log_time                | 22-06-2021 06:06:04 |
+| Iteration               | 12699               |
+| EpisodFramesNumber      | 1735                |
+| TMCount                 | 2251                |
+| RTMCount                | 12335               |
+| Epsilon                 | 0.36881             |
+| Episodes                | 13                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 5000                |
+| EpisodRewardsSum        | 30000               |
+| AverageEpisodReturn     | 11700               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2006.3              |
+| TotalFramesNumber       | 63470               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 140                 |
+| Log_time                | 22-06-2021 06:34:03 |
+| Iteration               | 12799               |
+| EpisodFramesNumber      | 2235                |
+| TMCount                 | 2062                |
+| RTMCount                | 12467               |
+| Epsilon                 | 0.36384             |
+| Episodes                | 13                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 5000                |
+| EpisodRewardsSum        | 30000               |
+| AverageEpisodReturn     | 11700               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1990.5              |
+| TotalFramesNumber       | 63970               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 141                 |
+| Log_time                | 22-06-2021 07:01:54 |
+| Iteration               | 12899               |
+| EpisodFramesNumber      | 2735                |
+| TMCount                 | 1867                |
+| RTMCount                | 12594               |
+| Epsilon                 | 0.35887             |
+| Episodes                | 13                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 6000                |
+| EpisodRewardsSum        | 31000               |
+| AverageEpisodReturn     | 11700               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1984.7              |
+| TotalFramesNumber       | 64470               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 142                 |
+| Log_time                | 22-06-2021 07:30:16 |
+| Iteration               | 12999               |
+| EpisodFramesNumber      | 3235                |
+| TMCount                 | 2646                |
+| RTMCount                | 12721               |
+| Epsilon                 | 0.3539              |
+| Episodes                | 13                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 6000                |
+| EpisodRewardsSum        | 31000               |
+| AverageEpisodReturn     | 11700               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1979                |
+| TotalFramesNumber       | 64970               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 143                 |
+| Log_time                | 22-06-2021 07:57:38 |
+| Iteration               | 13092               |
+| EpisodFramesNumber      | 3700                |
+| TMCount                 | 2370                |
+| RTMCount                | 12721               |
+| Epsilon                 | 0.34928             |
+| Episodes                | 13                  |
+| EndOfEpisod             | 1                   |
+| CurrenteEpisodRewardSum | 6000                |
+| EpisodRewardsSum        | 31000               |
+| AverageEpisodReturn     | 14200               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1965                |
+| TotalFramesNumber       | 65435               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 144                 |
+| Log_time                | 22-06-2021 07:59:37 |
+| Iteration               | 13099               |
+| EpisodFramesNumber      | 30                  |
+| TMCount                 | 2431                |
+| RTMCount                | 12721               |
+| Epsilon                 | 0.34893             |
+| Episodes                | 14                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 31000               |
+| AverageEpisodReturn     | 14200               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1963.8              |
+| TotalFramesNumber       | 65468               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 145                 |
+| Log_time                | 22-06-2021 08:28:30 |
+| Iteration               | 13199               |
+| EpisodFramesNumber      | 530                 |
+| TMCount                 | 2239                |
+| RTMCount                | 12845               |
+| Epsilon                 | 0.34396             |
+| Episodes                | 14                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 31000               |
+| AverageEpisodReturn     | 14200               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 1958.4              |
+| TotalFramesNumber       | 65968               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 146                 |
+| Log_time                | 22-06-2021 08:57:22 |
+| Iteration               | 13299               |
+| EpisodFramesNumber      | 1030                |
+| TMCount                 | 2050                |
+| RTMCount                | 12970               |
+| Epsilon                 | 0.33899             |
+| Episodes                | 14                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 31000               |
+| AverageEpisodReturn     | 14200               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2426.8              |
+| TotalFramesNumber       | 66468               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 147                 |
+| Log_time                | 22-06-2021 09:26:26 |
+| Iteration               | 13399               |
+| EpisodFramesNumber      | 1530                |
+| TMCount                 | 1877                |
+| RTMCount                | 13065               |
+| Epsilon                 | 0.33402             |
+| Episodes                | 14                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 31000               |
+| AverageEpisodReturn     | 14200               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2408.5              |
+| TotalFramesNumber       | 66968               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 148                 |
+| Log_time                | 22-06-2021 09:55:49 |
+| Iteration               | 13499               |
+| EpisodFramesNumber      | 2030                |
+| TMCount                 | 2644                |
+| RTMCount                | 13189               |
+| Epsilon                 | 0.32905             |
+| Episodes                | 14                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 31000               |
+| AverageEpisodReturn     | 14200               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2390.5              |
+| TotalFramesNumber       | 67468               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 149                 |
+| Log_time                | 22-06-2021 10:25:30 |
+| Iteration               | 13599               |
+| EpisodFramesNumber      | 2530                |
+| TMCount                 | 2416                |
+| RTMCount                | 13189               |
+| Epsilon                 | 0.32408             |
+| Episodes                | 14                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 31000               |
+| AverageEpisodReturn     | 14200               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2382.1              |
+| TotalFramesNumber       | 67968               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 150                 |
+| Log_time                | 22-06-2021 10:54:20 |
+| Iteration               | 13699               |
+| EpisodFramesNumber      | 3030                |
+| TMCount                 | 2219                |
+| RTMCount                | 13305               |
+| Epsilon                 | 0.31911             |
+| Episodes                | 14                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 31000               |
+| AverageEpisodReturn     | 14200               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2373.8              |
+| TotalFramesNumber       | 68468               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 151                 |
+| Log_time                | 22-06-2021 11:23:43 |
+| Iteration               | 13799               |
+| EpisodFramesNumber      | 3530                |
+| TMCount                 | 2031                |
+| RTMCount                | 13437               |
+| Epsilon                 | 0.31413             |
+| Episodes                | 14                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 31000               |
+| AverageEpisodReturn     | 14200               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2365.6              |
+| TotalFramesNumber       | 68968               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 152                 |
+| Log_time                | 22-06-2021 11:53:09 |
+| Iteration               | 13899               |
+| EpisodFramesNumber      | 4030                |
+| TMCount                 | 1846                |
+| RTMCount                | 13561               |
+| Epsilon                 | 0.30916             |
+| Episodes                | 14                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 1000                |
+| EpisodRewardsSum        | 32000               |
+| AverageEpisodReturn     | 14200               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2366.6              |
+| TotalFramesNumber       | 69468               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 153                 |
+| Log_time                | 22-06-2021 12:23:15 |
+| Iteration               | 13999               |
+| EpisodFramesNumber      | 4530                |
+| TMCount                 | 2629                |
+| RTMCount                | 13685               |
+| Epsilon                 | 0.30419             |
+| Episodes                | 14                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 2000                |
+| EpisodRewardsSum        | 33000               |
+| AverageEpisodReturn     | 14200               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2592.5              |
+| TotalFramesNumber       | 69968               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 154                 |
+| Log_time                | 22-06-2021 12:53:56 |
+| Iteration               | 14099               |
+| EpisodFramesNumber      | 5030                |
+| TMCount                 | 2415                |
+| RTMCount                | 13685               |
+| Epsilon                 | 0.29922             |
+| Episodes                | 14                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 2000                |
+| EpisodRewardsSum        | 33000               |
+| AverageEpisodReturn     | 14200               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2582.9              |
+| TotalFramesNumber       | 70468               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 155                 |
+| Log_time                | 22-06-2021 13:24:40 |
+| Iteration               | 14199               |
+| EpisodFramesNumber      | 5530                |
+| TMCount                 | 2232                |
+| RTMCount                | 13802               |
+| Epsilon                 | 0.29425             |
+| Episodes                | 14                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 2000                |
+| EpisodRewardsSum        | 33000               |
+| AverageEpisodReturn     | 14200               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2564.6              |
+| TotalFramesNumber       | 70968               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 156                 |
+| Log_time                | 22-06-2021 13:42:43 |
+| Iteration               | 14251               |
+| EpisodFramesNumber      | 5790                |
+| TMCount                 | 1659                |
+| RTMCount                | 13927               |
+| Epsilon                 | 0.29167             |
+| Episodes                | 14                  |
+| EndOfEpisod             | 1                   |
+| CurrenteEpisodRewardSum | 2000                |
+| EpisodRewardsSum        | 33000               |
+| AverageEpisodReturn     | 16800               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2572.8              |
+| TotalFramesNumber       | 71228               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 157                 |
+| Log_time                | 22-06-2021 13:55:22 |
+| Iteration               | 14299               |
+| EpisodFramesNumber      | 235                 |
+| TMCount                 | 2047                |
+| RTMCount                | 13927               |
+| Epsilon                 | 0.28928             |
+| Episodes                | 15                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 33000               |
+| AverageEpisodReturn     | 16800               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2564.1              |
+| TotalFramesNumber       | 71466               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 158                 |
+| Log_time                | 22-06-2021 14:26:37 |
+| Iteration               | 14399               |
+| EpisodFramesNumber      | 735                 |
+| TMCount                 | 1882                |
+| RTMCount                | 14051               |
+| Epsilon                 | 0.28431             |
+| Episodes                | 15                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 33000               |
+| AverageEpisodReturn     | 16800               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2764.8              |
+| TotalFramesNumber       | 71966               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 159                 |
+| Log_time                | 22-06-2021 14:57:50 |
+| Iteration               | 14499               |
+| EpisodFramesNumber      | 1235                |
+| TMCount                 | 2659                |
+| RTMCount                | 14151               |
+| Epsilon                 | 0.27934             |
+| Episodes                | 15                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 33000               |
+| AverageEpisodReturn     | 16800               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2754.3              |
+| TotalFramesNumber       | 72466               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 160                 |
+| Log_time                | 22-06-2021 15:29:20 |
+| Iteration               | 14599               |
+| EpisodFramesNumber      | 1735                |
+| TMCount                 | 2451                |
+| RTMCount                | 14151               |
+| Epsilon                 | 0.27437             |
+| Episodes                | 15                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 33000               |
+| AverageEpisodReturn     | 16800               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2743.9              |
+| TotalFramesNumber       | 72966               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 161                 |
+| Log_time                | 22-06-2021 16:01:08 |
+| Iteration               | 14699               |
+| EpisodFramesNumber      | 2235                |
+| TMCount                 | 2255                |
+| RTMCount                | 14271               |
+| Epsilon                 | 0.2694              |
+| Episodes                | 15                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 33000               |
+| AverageEpisodReturn     | 16800               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2725.1              |
+| TotalFramesNumber       | 73466               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 162                 |
+| Log_time                | 22-06-2021 16:33:13 |
+| Iteration               | 14799               |
+| EpisodFramesNumber      | 2735                |
+| TMCount                 | 2065                |
+| RTMCount                | 14395               |
+| Epsilon                 | 0.26443             |
+| Episodes                | 15                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 33000               |
+| AverageEpisodReturn     | 16800               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2723.6              |
+| TotalFramesNumber       | 73966               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 163                 |
+| Log_time                | 22-06-2021 17:05:25 |
+| Iteration               | 14899               |
+| EpisodFramesNumber      | 3235                |
+| TMCount                 | 1907                |
+| RTMCount                | 14516               |
+| Epsilon                 | 0.25946             |
+| Episodes                | 15                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 33000               |
+| AverageEpisodReturn     | 16800               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2722.1              |
+| TotalFramesNumber       | 74466               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 164                 |
+| Log_time                | 22-06-2021 17:38:10 |
+| Iteration               | 14999               |
+| EpisodFramesNumber      | 3735                |
+| TMCount                 | 2701                |
+| RTMCount                | 14639               |
+| Epsilon                 | 0.25449             |
+| Episodes                | 15                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 33000               |
+| AverageEpisodReturn     | 16800               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2720.6              |
+| TotalFramesNumber       | 74966               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 165                 |
+| Log_time                | 22-06-2021 18:11:20 |
+| Iteration               | 15099               |
+| EpisodFramesNumber      | 4235                |
+| TMCount                 | 2493                |
+| RTMCount                | 14639               |
+| Epsilon                 | 0.24952             |
+| Episodes                | 15                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 33000               |
+| AverageEpisodReturn     | 16800               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2710.8              |
+| TotalFramesNumber       | 75466               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 166                 |
+| Log_time                | 22-06-2021 18:22:44 |
+| Iteration               | 15121               |
+| EpisodFramesNumber      | 4345                |
+| TMCount                 | 1690                |
+| RTMCount                | 14758               |
+| Epsilon                 | 0.24843             |
+| Episodes                | 15                  |
+| EndOfEpisod             | 1                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 33000               |
+| AverageEpisodReturn     | 19300               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2706.5              |
+| TotalFramesNumber       | 75576               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 167                 |
+| Log_time                | 22-06-2021 18:44:09 |
+| Iteration               | 15199               |
+| EpisodFramesNumber      | 385                 |
+| TMCount                 | 2297                |
+| RTMCount                | 14758               |
+| Epsilon                 | 0.24455             |
+| Episodes                | 16                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 33000               |
+| AverageEpisodReturn     | 19300               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2692.9              |
+| TotalFramesNumber       | 75965               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 168                 |
+| Log_time                | 22-06-2021 19:17:22 |
+| Iteration               | 15299               |
+| EpisodFramesNumber      | 885                 |
+| TMCount                 | 2120                |
+| RTMCount                | 14884               |
+| Epsilon                 | 0.23958             |
+| Episodes                | 16                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 1000                |
+| EpisodRewardsSum        | 34000               |
+| AverageEpisodReturn     | 19300               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2683.4              |
+| TotalFramesNumber       | 76465               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 169                 |
+| Log_time                | 22-06-2021 19:50:20 |
+| Iteration               | 15399               |
+| EpisodFramesNumber      | 1385                |
+| TMCount                 | 1936                |
+| RTMCount                | 14981               |
+| Epsilon                 | 0.23461             |
+| Episodes                | 16                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 1000                |
+| EpisodRewardsSum        | 34000               |
+| AverageEpisodReturn     | 19300               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2665.9              |
+| TotalFramesNumber       | 76965               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 170                 |
+| Log_time                | 22-06-2021 20:23:49 |
+| Iteration               | 15499               |
+| EpisodFramesNumber      | 1885                |
+| TMCount                 | 2721                |
+| RTMCount                | 15105               |
+| Epsilon                 | 0.22964             |
+| Episodes                | 16                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 1000                |
+| EpisodRewardsSum        | 34000               |
+| AverageEpisodReturn     | 19300               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2656.7              |
+| TotalFramesNumber       | 77465               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 171                 |
+| Log_time                | 22-06-2021 20:57:27 |
+| Iteration               | 15599               |
+| EpisodFramesNumber      | 2385                |
+| TMCount                 | 2521                |
+| RTMCount                | 15105               |
+| Epsilon                 | 0.22467             |
+| Episodes                | 16                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 2000                |
+| EpisodRewardsSum        | 35000               |
+| AverageEpisodReturn     | 19300               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2639.5              |
+| TotalFramesNumber       | 77965               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 172                 |
+| Log_time                | 22-06-2021 21:31:12 |
+| Iteration               | 15699               |
+| EpisodFramesNumber      | 2885                |
+| TMCount                 | 2328                |
+| RTMCount                | 15225               |
+| Epsilon                 | 0.2197              |
+| Episodes                | 16                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 2000                |
+| EpisodRewardsSum        | 35000               |
+| AverageEpisodReturn     | 19300               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2630.6              |
+| TotalFramesNumber       | 78465               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 173                 |
+| Log_time                | 22-06-2021 22:05:09 |
+| Iteration               | 15799               |
+| EpisodFramesNumber      | 3385                |
+| TMCount                 | 2138                |
+| RTMCount                | 15349               |
+| Epsilon                 | 0.21473             |
+| Episodes                | 16                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 2000                |
+| EpisodRewardsSum        | 35000               |
+| AverageEpisodReturn     | 19300               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2613.9              |
+| TotalFramesNumber       | 78965               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 174                 |
+| Log_time                | 22-06-2021 22:34:35 |
+| Iteration               | 15882               |
+| EpisodFramesNumber      | 3800                |
+| TMCount                 | 1831                |
+| RTMCount                | 15471               |
+| Epsilon                 | 0.2106              |
+| Episodes                | 16                  |
+| EndOfEpisod             | 1                   |
+| CurrenteEpisodRewardSum | 2000                |
+| EpisodRewardsSum        | 35000               |
+| AverageEpisodReturn     | 21900               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2607.9              |
+| TotalFramesNumber       | 79380               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 175                 |
+| Log_time                | 22-06-2021 22:39:21 |
+| Iteration               | 15899               |
+| EpisodFramesNumber      | 80                  |
+| TMCount                 | 1956                |
+| RTMCount                | 15471               |
+| Epsilon                 | 0.20976             |
+| Episodes                | 17                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 35000               |
+| AverageEpisodReturn     | 21900               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2605.2              |
+| TotalFramesNumber       | 79461               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 176                 |
+| Log_time                | 22-06-2021 23:14:07 |
+| Iteration               | 15999               |
+| EpisodFramesNumber      | 580                 |
+| TMCount                 | 2742                |
+| RTMCount                | 15591               |
+| Epsilon                 | 0.20479             |
+| Episodes                | 17                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 35000               |
+| AverageEpisodReturn     | 21900               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2596.7              |
+| TotalFramesNumber       | 79961               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 177                 |
+| Log_time                | 22-06-2021 23:49:41 |
+| Iteration               | 16099               |
+| EpisodFramesNumber      | 1080                |
+| TMCount                 | 2537                |
+| RTMCount                | 15591               |
+| Epsilon                 | 0.19982             |
+| Episodes                | 17                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 35000               |
+| AverageEpisodReturn     | 21900               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2783.7              |
+| TotalFramesNumber       | 80461               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 178                 |
+| Log_time                | 23-06-2021 00:24:27 |
+| Iteration               | 16199               |
+| EpisodFramesNumber      | 1580                |
+| TMCount                 | 2354                |
+| RTMCount                | 15693               |
+| Epsilon                 | 0.19485             |
+| Episodes                | 17                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 35000               |
+| AverageEpisodReturn     | 21900               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2774.2              |
+| TotalFramesNumber       | 80961               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 179                 |
+| Log_time                | 23-06-2021 00:59:37 |
+| Iteration               | 16299               |
+| EpisodFramesNumber      | 2080                |
+| TMCount                 | 2185                |
+| RTMCount                | 15811               |
+| Epsilon                 | 0.18988             |
+| Episodes                | 17                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 35000               |
+| AverageEpisodReturn     | 21900               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2757                |
+| TotalFramesNumber       | 81461               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 180                 |
+| Log_time                | 23-06-2021 01:35:06 |
+| Iteration               | 16399               |
+| EpisodFramesNumber      | 2580                |
+| TMCount                 | 2000                |
+| RTMCount                | 15934               |
+| Epsilon                 | 0.1849              |
+| Episodes                | 17                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 1000                |
+| EpisodRewardsSum        | 36000               |
+| AverageEpisodReturn     | 21900               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2747.8              |
+| TotalFramesNumber       | 81961               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 181                 |
+| Log_time                | 23-06-2021 02:10:37 |
+| Iteration               | 16499               |
+| EpisodFramesNumber      | 3080                |
+| TMCount                 | 1835                |
+| RTMCount                | 16051               |
+| Epsilon                 | 0.17993             |
+| Episodes                | 17                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 1000                |
+| EpisodRewardsSum        | 36000               |
+| AverageEpisodReturn     | 21900               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2921.7              |
+| TotalFramesNumber       | 82461               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 182                 |
+| Log_time                | 23-06-2021 02:46:37 |
+| Iteration               | 16599               |
+| EpisodFramesNumber      | 3580                |
+| TMCount                 | 2628                |
+| RTMCount                | 16174               |
+| Epsilon                 | 0.17496             |
+| Episodes                | 17                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 1000                |
+| EpisodRewardsSum        | 36000               |
+| AverageEpisodReturn     | 21900               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 3101                |
+| TotalFramesNumber       | 82961               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 183                 |
+| Log_time                | 23-06-2021 03:22:38 |
+| Iteration               | 16699               |
+| EpisodFramesNumber      | 4080                |
+| TMCount                 | 2427                |
+| RTMCount                | 16174               |
+| Epsilon                 | 0.16999             |
+| Episodes                | 17                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 2000                |
+| EpisodRewardsSum        | 37000               |
+| AverageEpisodReturn     | 21900               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 3089.9              |
+| TotalFramesNumber       | 83461               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 184                 |
+| Log_time                | 23-06-2021 03:58:55 |
+| Iteration               | 16799               |
+| EpisodFramesNumber      | 4580                |
+| TMCount                 | 2255                |
+| RTMCount                | 16293               |
+| Epsilon                 | 0.16502             |
+| Episodes                | 17                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 2000                |
+| EpisodRewardsSum        | 37000               |
+| AverageEpisodReturn     | 21900               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 3258.6              |
+| TotalFramesNumber       | 83961               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 185                 |
+| Log_time                | 23-06-2021 04:35:18 |
+| Iteration               | 16899               |
+| EpisodFramesNumber      | 5080                |
+| TMCount                 | 2087                |
+| RTMCount                | 16417               |
+| Epsilon                 | 0.16005             |
+| Episodes                | 17                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 2000                |
+| EpisodRewardsSum        | 37000               |
+| AverageEpisodReturn     | 21900               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 3239.2              |
+| TotalFramesNumber       | 84461               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 186                 |
+| Log_time                | 23-06-2021 05:11:52 |
+| Iteration               | 16999               |
+| EpisodFramesNumber      | 5580                |
+| TMCount                 | 1927                |
+| RTMCount                | 16541               |
+| Epsilon                 | 0.15508             |
+| Episodes                | 17                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 3000                |
+| EpisodRewardsSum        | 38000               |
+| AverageEpisodReturn     | 21900               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 3220                |
+| TotalFramesNumber       | 84961               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 187                 |
+| Log_time                | 23-06-2021 05:49:57 |
+| Iteration               | 17099               |
+| EpisodFramesNumber      | 6080                |
+| TMCount                 | 2713                |
+| RTMCount                | 16661               |
+| Epsilon                 | 0.15011             |
+| Episodes                | 17                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 3000                |
+| EpisodRewardsSum        | 38000               |
+| AverageEpisodReturn     | 21900               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 3223.1              |
+| TotalFramesNumber       | 85461               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 188                 |
+| Log_time                | 23-06-2021 06:02:41 |
+| Iteration               | 17121               |
+| EpisodFramesNumber      | 6190                |
+| TMCount                 | 1909                |
+| RTMCount                | 16661               |
+| Epsilon                 | 0.14902             |
+| Episodes                | 17                  |
+| EndOfEpisod             | 1                   |
+| CurrenteEpisodRewardSum | 3000                |
+| EpisodRewardsSum        | 38000               |
+| AverageEpisodReturn     | 24600               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 3218.6              |
+| TotalFramesNumber       | 85571               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 189                 |
+| Log_time                | 23-06-2021 06:27:12 |
+| Iteration               | 17199               |
+| EpisodFramesNumber      | 385                 |
+| TMCount                 | 2524                |
+| RTMCount                | 16661               |
+| Epsilon                 | 0.14514             |
+| Episodes                | 18                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 38000               |
+| AverageEpisodReturn     | 24600               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 3204.3              |
+| TotalFramesNumber       | 85957               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 190                 |
+| Log_time                | 23-06-2021 07:04:46 |
+| Iteration               | 17299               |
+| EpisodFramesNumber      | 885                 |
+| TMCount                 | 2336                |
+| RTMCount                | 16780               |
+| Epsilon                 | 0.14017             |
+| Episodes                | 18                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 2000                |
+| EpisodRewardsSum        | 40000               |
+| AverageEpisodReturn     | 24600               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 3185.6              |
+| TotalFramesNumber       | 86457               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 191                 |
+| Log_time                | 23-06-2021 07:42:13 |
+| Iteration               | 17399               |
+| EpisodFramesNumber      | 1385                |
+| TMCount                 | 2153                |
+| RTMCount                | 16894               |
+| Epsilon                 | 0.1352              |
+| Episodes                | 18                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 2000                |
+| EpisodRewardsSum        | 40000               |
+| AverageEpisodReturn     | 24600               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 3167.2              |
+| TotalFramesNumber       | 86957               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 192                 |
+| Log_time                | 23-06-2021 08:20:13 |
+| Iteration               | 17499               |
+| EpisodFramesNumber      | 1885                |
+| TMCount                 | 1986                |
+| RTMCount                | 16997               |
+| Epsilon                 | 0.13023             |
+| Episodes                | 18                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 2000                |
+| EpisodRewardsSum        | 40000               |
+| AverageEpisodReturn     | 24600               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 3163.4              |
+| TotalFramesNumber       | 87457               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 193                 |
+| Log_time                | 23-06-2021 08:58:32 |
+| Iteration               | 17599               |
+| EpisodFramesNumber      | 2385                |
+| TMCount                 | 2767                |
+| RTMCount                | 17119               |
+| Epsilon                 | 0.12526             |
+| Episodes                | 18                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 2000                |
+| EpisodRewardsSum        | 40000               |
+| AverageEpisodReturn     | 24600               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 3152.5              |
+| TotalFramesNumber       | 87957               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 194                 |
+| Log_time                | 23-06-2021 09:36:54 |
+| Iteration               | 17699               |
+| EpisodFramesNumber      | 2885                |
+| TMCount                 | 2582                |
+| RTMCount                | 17119               |
+| Epsilon                 | 0.12029             |
+| Episodes                | 18                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 3000                |
+| EpisodRewardsSum        | 41000               |
+| AverageEpisodReturn     | 24600               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 3134.5              |
+| TotalFramesNumber       | 88457               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 195                 |
+| Log_time                | 23-06-2021 10:15:42 |
+| Iteration               | 17799               |
+| EpisodFramesNumber      | 3385                |
+| TMCount                 | 2396                |
+| RTMCount                | 17235               |
+| Epsilon                 | 0.11532             |
+| Episodes                | 18                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 3000                |
+| EpisodRewardsSum        | 41000               |
+| AverageEpisodReturn     | 24600               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 3123.9              |
+| TotalFramesNumber       | 88957               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 196                 |
+| Log_time                | 23-06-2021 10:54:14 |
+| Iteration               | 17899               |
+| EpisodFramesNumber      | 3885                |
+| TMCount                 | 2229                |
+| RTMCount                | 17360               |
+| Epsilon                 | 0.11035             |
+| Episodes                | 18                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 3000                |
+| EpisodRewardsSum        | 41000               |
+| AverageEpisodReturn     | 24600               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 3113.4              |
+| TotalFramesNumber       | 89457               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 197                 |
+| Log_time                | 23-06-2021 11:33:14 |
+| Iteration               | 17999               |
+| EpisodFramesNumber      | 4385                |
+| TMCount                 | 2069                |
+| RTMCount                | 17478               |
+| Epsilon                 | 0.10538             |
+| Episodes                | 18                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 5000                |
+| EpisodRewardsSum        | 43000               |
+| AverageEpisodReturn     | 24600               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 3096                |
+| TotalFramesNumber       | 89957               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 198                 |
+| Log_time                | 23-06-2021 12:13:19 |
+| Iteration               | 18099               |
+| EpisodFramesNumber      | 4885                |
+| TMCount                 | 1906                |
+| RTMCount                | 17602               |
+| Epsilon                 | 0.10041             |
+| Episodes                | 18                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 5000                |
+| EpisodRewardsSum        | 43000               |
+| AverageEpisodReturn     | 24600               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 3085.7              |
+| TotalFramesNumber       | 90457               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 199                 |
+| Log_time                | 23-06-2021 12:44:30 |
+| Iteration               | 18174               |
+| EpisodFramesNumber      | 5260                |
+| TMCount                 | 2512                |
+| RTMCount                | 17718               |
+| Epsilon                 | 0.09668             |
+| Episodes                | 18                  |
+| EndOfEpisod             | 1                   |
+| CurrenteEpisodRewardSum | 5000                |
+| EpisodRewardsSum        | 43000               |
+| AverageEpisodReturn     | 27800               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 3072.7              |
+| TotalFramesNumber       | 90832               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 200                 |
+| Log_time                | 23-06-2021 12:52:44 |
+| Iteration               | 18199               |
+| EpisodFramesNumber      | 120                 |
+| TMCount                 | 2697                |
+| RTMCount                | 17718               |
+| Epsilon                 | 0.095438            |
+| Episodes                | 19                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 43000               |
+| AverageEpisodReturn     | 27800               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 3068.7              |
+| TotalFramesNumber       | 90955               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 201                 |
+| Log_time                | 23-06-2021 13:32:44 |
+| Iteration               | 18299               |
+| EpisodFramesNumber      | 620                 |
+| TMCount                 | 2499                |
+| RTMCount                | 17718               |
+| Epsilon                 | 0.090467            |
+| Episodes                | 19                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 0                   |
+| EpisodRewardsSum        | 43000               |
+| AverageEpisodReturn     | 27800               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 3051.8              |
+| TotalFramesNumber       | 91455               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 202                 |
+| Log_time                | 23-06-2021 14:12:53 |
+| Iteration               | 18399               |
+| EpisodFramesNumber      | 1120                |
+| TMCount                 | 2335                |
+| RTMCount                | 17838               |
+| Epsilon                 | 0.085497            |
+| Episodes                | 19                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 2000                |
+| EpisodRewardsSum        | 45000               |
+| AverageEpisodReturn     | 27800               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 3035.1              |
+| TotalFramesNumber       | 91955               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 203                 |
+| Log_time                | 23-06-2021 14:52:41 |
+| Iteration               | 18499               |
+| EpisodFramesNumber      | 1620                |
+| TMCount                 | 2160                |
+| RTMCount                | 17929               |
+| Epsilon                 | 0.080526            |
+| Episodes                | 19                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 2000                |
+| EpisodRewardsSum        | 45000               |
+| AverageEpisodReturn     | 27800               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 3018.6              |
+| TotalFramesNumber       | 92455               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 204                 |
+| Log_time                | 23-06-2021 15:33:08 |
+| Iteration               | 18599               |
+| EpisodFramesNumber      | 2120                |
+| TMCount                 | 1998                |
+| RTMCount                | 18052               |
+| Epsilon                 | 0.075556            |
+| Episodes                | 19                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 2000                |
+| EpisodRewardsSum        | 45000               |
+| AverageEpisodReturn     | 27800               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 3015.8              |
+| TotalFramesNumber       | 92955               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 205                 |
+| Log_time                | 23-06-2021 16:13:54 |
+| Iteration               | 18699               |
+| EpisodFramesNumber      | 2620                |
+| TMCount                 | 2790                |
+| RTMCount                | 18170               |
+| Epsilon                 | 0.070586            |
+| Episodes                | 19                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 2000                |
+| EpisodRewardsSum        | 45000               |
+| AverageEpisodReturn     | 27800               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 3013.1              |
+| TotalFramesNumber       | 93455               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 206                 |
+| Log_time                | 23-06-2021 16:54:28 |
+| Iteration               | 18799               |
+| EpisodFramesNumber      | 3120                |
+| TMCount                 | 2605                |
+| RTMCount                | 18170               |
+| Epsilon                 | 0.065615            |
+| Episodes                | 19                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 2000                |
+| EpisodRewardsSum        | 45000               |
+| AverageEpisodReturn     | 27800               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 3010.3              |
+| TotalFramesNumber       | 93955               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 207                 |
+| Log_time                | 23-06-2021 17:35:02 |
+| Iteration               | 18899               |
+| EpisodFramesNumber      | 3620                |
+| TMCount                 | 2438                |
+| RTMCount                | 18290               |
+| Epsilon                 | 0.060645            |
+| Episodes                | 19                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 2000                |
+| EpisodRewardsSum        | 45000               |
+| AverageEpisodReturn     | 27800               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 3027.6              |
+| TotalFramesNumber       | 94455               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 208                 |
+| Log_time                | 23-06-2021 18:15:43 |
+| Iteration               | 18999               |
+| EpisodFramesNumber      | 4120                |
+| TMCount                 | 2279                |
+| RTMCount                | 18411               |
+| Epsilon                 | 0.055674            |
+| Episodes                | 19                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 2000                |
+| EpisodRewardsSum        | 45000               |
+| AverageEpisodReturn     | 27800               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 3038                |
+| TotalFramesNumber       | 94955               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 209                 |
+| Log_time                | 23-06-2021 18:57:27 |
+| Iteration               | 19099               |
+| EpisodFramesNumber      | 4620                |
+| TMCount                 | 2112                |
+| RTMCount                | 18531               |
+| Epsilon                 | 0.050704            |
+| Episodes                | 19                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 2000                |
+| EpisodRewardsSum        | 45000               |
+| AverageEpisodReturn     | 27800               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 3028.6              |
+| TotalFramesNumber       | 95455               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 210                 |
+| Log_time                | 23-06-2021 19:39:03 |
+| Iteration               | 19199               |
+| EpisodFramesNumber      | 5120                |
+| TMCount                 | 1957                |
+| RTMCount                | 18648               |
+| Epsilon                 | 0.045734            |
+| Episodes                | 19                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 2000                |
+| EpisodRewardsSum        | 45000               |
+| AverageEpisodReturn     | 27800               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 3025.8              |
+| TotalFramesNumber       | 95955               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 211                 |
+| Log_time                | 23-06-2021 20:20:35 |
+| Iteration               | 19299               |
+| EpisodFramesNumber      | 5620                |
+| TMCount                 | 2743                |
+| RTMCount                | 18768               |
+| Epsilon                 | 0.040763            |
+| Episodes                | 19                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 3000                |
+| EpisodRewardsSum        | 46000               |
+| AverageEpisodReturn     | 27800               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 3010.1              |
+| TotalFramesNumber       | 96455               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 212                 |
+| Log_time                | 23-06-2021 21:02:24 |
+| Iteration               | 19399               |
+| EpisodFramesNumber      | 6120                |
+| TMCount                 | 2563                |
+| RTMCount                | 18768               |
+| Epsilon                 | 0.035793            |
+| Episodes                | 19                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 3000                |
+| EpisodRewardsSum        | 46000               |
+| AverageEpisodReturn     | 27800               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 3001                |
+| TotalFramesNumber       | 96955               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 213                 |
+| Log_time                | 23-06-2021 21:44:02 |
+| Iteration               | 19499               |
+| EpisodFramesNumber      | 6620                |
+| TMCount                 | 2392                |
+| RTMCount                | 18888               |
+| Epsilon                 | 0.030822            |
+| Episodes                | 19                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 3000                |
+| EpisodRewardsSum        | 46000               |
+| AverageEpisodReturn     | 27800               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2998.4              |
+| TotalFramesNumber       | 97455               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 214                 |
+| Log_time                | 23-06-2021 22:26:04 |
+| Iteration               | 19599               |
+| EpisodFramesNumber      | 7120                |
+| TMCount                 | 2219                |
+| RTMCount                | 19012               |
+| Epsilon                 | 0.025852            |
+| Episodes                | 19                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 3000                |
+| EpisodRewardsSum        | 46000               |
+| AverageEpisodReturn     | 27800               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2983                |
+| TotalFramesNumber       | 97955               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 215                 |
+| Log_time                | 23-06-2021 23:08:07 |
+| Iteration               | 19699               |
+| EpisodFramesNumber      | 7620                |
+| TMCount                 | 2051                |
+| RTMCount                | 19136               |
+| Epsilon                 | 0.020882            |
+| Episodes                | 19                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 3000                |
+| EpisodRewardsSum        | 46000               |
+| AverageEpisodReturn     | 27800               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2974.2              |
+| TotalFramesNumber       | 98455               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 216                 |
+| Log_time                | 23-06-2021 23:50:32 |
+| Iteration               | 19799               |
+| EpisodFramesNumber      | 8120                |
+| TMCount                 | 1895                |
+| RTMCount                | 19256               |
+| Epsilon                 | 0.015911            |
+| Episodes                | 19                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 3000                |
+| EpisodRewardsSum        | 46000               |
+| AverageEpisodReturn     | 27800               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2959.1              |
+| TotalFramesNumber       | 98955               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 217                 |
+| Log_time                | 24-06-2021 00:33:14 |
+| Iteration               | 19899               |
+| EpisodFramesNumber      | 8620                |
+| TMCount                 | 2691                |
+| RTMCount                | 19373               |
+| Epsilon                 | 0.010941            |
+| Episodes                | 19                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 3000                |
+| EpisodRewardsSum        | 46000               |
+| AverageEpisodReturn     | 27800               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2950.5              |
+| TotalFramesNumber       | 99455               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 218                 |
+| Log_time                | 24-06-2021 01:16:07 |
+| Iteration               | 19999               |
+| EpisodFramesNumber      | 9120                |
+| TMCount                 | 2500                |
+| RTMCount                | 19373               |
+| Epsilon                 | 0.0059704           |
+| Episodes                | 19                  |
+| EndOfEpisod             | 0                   |
+| CurrenteEpisodRewardSum | 3000                |
+| EpisodRewardsSum        | 46000               |
+| AverageEpisodReturn     | 27800               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2954.5              |
+| TotalFramesNumber       | 99955               |
+-------------------------------------------------
+-------------------------------------------------
+| Log_count               | 219                 |
+| Log_time                | 24-06-2021 01:49:31 |
+| Iteration               | 20069               |
+| EpisodFramesNumber      | 9470                |
+| TMCount                 | 2090                |
+| RTMCount                | 19493               |
+| Epsilon                 | 0.0024911           |
+| Episodes                | 19                  |
+| EndOfEpisod             | 1                   |
+| CurrenteEpisodRewardSum | 3000                |
+| EpisodRewardsSum        | 46000               |
+| AverageEpisodReturn     | 31300               |
+| AverageDiscountedepi... | 22.455              |
+| TDError2                | 2943.8              |
+| TotalFramesNumber       | 1.0030e+05          |
+-------------------------------------------------
