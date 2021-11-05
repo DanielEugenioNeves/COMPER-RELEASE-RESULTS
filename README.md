@@ -5,6 +5,6 @@ COMPER is a research project in deep reinforcement learning that is being develo
 
 The objective of this public respository is to release our research results under the terms of the GNU General Public License.
 
-Questions and contributions will can send to daniel.eugenio@sga.pucminas.br.
+Questions and contributions will can send to daniel.eugenio@sga.pucminas.br or danieleugenio.neves@gmail.com.
 
 
