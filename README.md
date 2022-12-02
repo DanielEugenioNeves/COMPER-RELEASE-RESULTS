@@ -8,7 +8,7 @@ This research work is carried out in the Post Graduate Program in Informátics f
 
 The preprint paper is available at https://arxiv.org/abs/2111.06907 and at https://www.researchgate.net/publication/356250613_Improving_Experience_Replay_through_Modeling_of_Similar_Transitions'_Sets.
 
-Our last coding releases are available at https://github.com/DanielEugenioNeves/COMPER-RELEASE-CODE
+
 
 It is a free publication to encourage discussions about the topics covered, but its official collaborators ask that the terms of license and rights be observed and respected.
 
